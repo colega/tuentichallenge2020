@@ -1,0 +1,5103 @@
+Using Python-MIP package version 1.8.1
+Welcome to the CBC MILP Solver 
+Version: Trunk
+Build Date: Apr 17 2020 
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0014I Perturbing problem by 0.001% of 9.0800007 - largest nonzero change 9.8938306e-05 ( 0.0098938306%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 100 iterations time 0.012, Idiot 0.00
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0029I End of values pass after 1065 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1065 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0029I End of values pass after 1095 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1095 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0029I End of values pass after 1131 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1131 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0029I End of values pass after 1140 iterations
+Clp0014I Perturbing problem by 0.001% of 11.746667 - largest nonzero change 2.0558435e-05 ( 5.7106763e-05%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1141 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0029I End of values pass after 1186 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1186 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0029I End of values pass after 1215 iterations
+Clp0014I Perturbing problem by 0.001% of 13.080001 - largest nonzero change 0.00012773491 ( 0.0003548192%) - largest zero change 1.6061941e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1217 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0029I End of values pass after 1966 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1966 iterations time 0.072, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 361.99985 (150)
+Clp0029I End of values pass after 1247 iterations
+Clp0014I Perturbing problem by 0.001% of 14.413334 - largest nonzero change 8.6628482e-05 ( 0.00037664558%) - largest zero change 1.0665861e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1250 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 261.99985 (150)
+Clp0029I End of values pass after 1341 iterations
+Clp0014I Perturbing problem by 0.001% of 15.080001 - largest nonzero change 0.00013864412 ( 0.00066021008%) - largest zero change 1.8718604e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1344 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 161.99985 (150)
+Clp0029I End of values pass after 1745 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1745 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 61.99985 (150)
+Clp0029I End of values pass after 1786 iterations
+Clp0014I Perturbing problem by 0.001% of 16.413334 - largest nonzero change 8.8808551e-05 ( 0.00088808551%) - largest zero change 1.3560391e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1787 iterations time 0.072, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 12.999994 (6)
+Clp0029I End of values pass after 1867 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1867 iterations time 0.112, Idiot 0.10
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 7.999994 (6)
+Clp0029I End of values pass after 1791 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1791 iterations time 0.112, Idiot 0.11
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 2.999994 (6)
+Clp0029I End of values pass after 1767 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1767 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2365 (-2635) columns and 4730 (-2635) elements
+Clp1000I sum of infeasibilities 1.84351e-07 - average 1.22901e-09, 273 fixed columns
+Coin0506I Presolve 144 (-6) rows, 2086 (-279) columns and 4172 (-558) elements
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.032, Presolve 0.00, Idiot 0.03
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(19) : 9.0
+var(102) : 16.0
+var(116) : 16.0
+var(118) : 16.0
+var(134) : 11.0
+var(153) : 3.0
+var(159) : 4.0
+var(191) : 3.0
+var(248) : 2.0
+var(293) : 5.0
+var(319) : 2.0
+var(348) : 14.0
+var(451) : 6.0
+var(471) : 16.0
+var(525) : 16.0
+var(539) : 9.0
+var(658) : 8.0
+var(711) : 16.0
+var(753) : 11.0
+var(808) : 2.0
+var(828) : 16.0
+var(910) : 5.0
+var(985) : 16.0
+var(1015) : 16.0
+var(1054) : 13.0
+var(1199) : 15.0
+var(1231) : 15.0
+var(1306) : 16.0
+var(1312) : 9.0
+var(1403) : 1.0
+var(1442) : 9.0
+var(1497) : 7.0
+var(1546) : 11.0
+var(1620) : 16.0
+var(1772) : 16.0
+var(1773) : 4.0
+var(1878) : 3.0
+var(1901) : 16.0
+var(1907) : 13.0
+var(2042) : 7.0
+var(2080) : 16.0
+var(2083) : 16.0
+var(2157) : 14.0
+var(2207) : 3.0
+var(2208) : 14.0
+var(2224) : 16.0
+var(2229) : 16.0
+var(2270) : 3.0
+var(2309) : 16.0
+var(2313) : 8.0
+var(2332) : 9.0
+var(2435) : 16.0
+var(2497) : 5.0
+var(2591) : 13.0
+var(2603) : 3.0
+var(2623) : 16.0
+var(2682) : 16.0
+var(2712) : 5.0
+var(2713) : 3.0
+var(2773) : 12.0
+var(2853) : 2.0
+var(2889) : 2.0
+var(2913) : 5.0
+var(2917) : 16.0
+var(2931) : 1.0
+var(2936) : 16.0
+var(2941) : 12.0
+var(3084) : 14.0
+var(3134) : 5.0
+var(3203) : 11.0
+var(3233) : 16.0
+var(3377) : 16.0
+var(3396) : 5.0
+var(3400) : 16.0
+var(3405) : 16.0
+var(3412) : 2.0
+var(3503) : 1.0
+var(3519) : 5.0
+var(3522) : 16.0
+var(3647) : 16.0
+var(3655) : 16.0
+var(3665) : 16.0
+var(3679) : 16.0
+var(3689) : 14.0
+var(3732) : 7.0
+var(3888) : 4.0
+var(3926) : 12.0
+var(3978) : 13.0
+var(4095) : 9.0
+var(4137) : 16.0
+var(4140) : 16.0
+var(4141) : 4.0
+var(4143) : 16.0
+var(4144) : 1.0
+var(4204) : 16.0
+var(4214) : 16.0
+var(4226) : 4.0
+var(4230) : 3.0
+var(4310) : 11.0
+var(4330) : 13.0
+var(4339) : 7.0
+var(4344) : 15.0
+var(4345) : 13.0
+var(4398) : 16.0
+var(4458) : 3.0
+var(4527) : 16.0
+var(4593) : 11.0
+var(4649) : 16.0
+var(4659) : 10.0
+var(4745) : 3.0
+var(4751) : 10.0
+var(4760) : 14.0
+var(4821) : 16.0
+var(4838) : 13.0
+var(4846) : 5.0
+var(4850) : 16.0
+var(4852) : 16.0
+var(4854) : 3.0
+var(4857) : 2.0
+var(4858) : 5.0
+var(4861) : 4.0
+var(4938) : 3.0
+Case #1: 16
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.00 seconds
+Cgl0004I processed model has 150 rows, 2365 columns (2365 integer (0 of which binary)) and 4730 elements
+Coin3009W Conflict graph built in 0.007 seconds, density: 0.000%
+Cbc0045I No integer variables out of 2365 objects (2365 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.07 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.07 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.03
+Time (Wallclock seconds):       0.08
+
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.08
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 1249.9999 (50) Dual inf 2473.9975 (2474)
+Clp0014I Perturbing problem by 0.001% of 9.0000007 - largest nonzero change 9.8066603e-05 ( 0.0098066603%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 103 iterations time 0.012, Idiot 0.00
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 1049.9999 (150)
+Clp0029I End of values pass after 1510 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1510 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 949.99985 (150)
+Clp0029I End of values pass after 1542 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1542 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 849.99985 (150)
+Clp0029I End of values pass after 1556 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1556 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 749.99985 (150)
+Clp0029I End of values pass after 1590 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1590 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 649.99985 (150)
+Clp0029I End of values pass after 1586 iterations
+Clp0014I Perturbing problem by 0.001% of 12.333334 - largest nonzero change 7.4978697e-05 ( 0.00089903003%) - largest zero change 1.0285236e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1589 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2474 (-2526) columns and 4948 (-2526) elements
+Clp0006I 0  Obj 0 Primal inf 549.99985 (150)
+Clp0029I End of values pass after 1614 iterations
+Clp0014I Perturbing problem by 0.001% of 25.000002 - largest nonzero change 2.5805565e-05 ( 0.0001720371%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 549.99996 (41)
+Clp0032I PrimalInfeasible objective 0 - 1615 iterations time 0.062, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2474 (-2526) columns and 4948 (-2526) elements
+Clp0006I 0  Obj 0 Primal inf 449.99985 (150)
+Clp0029I End of values pass after 1576 iterations
+Clp0014I Perturbing problem by 0.001% of 25.000002 - largest nonzero change 3.6141086e-05 ( 0.00021259462%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 449.99996 (36)
+Clp0032I PrimalInfeasible objective 0 - 1577 iterations time 0.062, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2474 (-2526) columns and 4948 (-2526) elements
+Clp0006I 0  Obj 0 Primal inf 349.99985 (150)
+Clp0029I End of values pass after 1491 iterations
+Clp0014I Perturbing problem by 0.001% of 25.000002 - largest nonzero change 0.00022417582 ( 0.00022417582%) - largest zero change 1.4347609e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 349.99997 (29)
+Clp0032I PrimalInfeasible objective 0 - 1492 iterations time 0.062, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2474 (-2526) columns and 4948 (-2526) elements
+Clp0006I 0  Obj 0 Primal inf 249.99985 (150)
+Clp0029I End of values pass after 1561 iterations
+Clp0014I Perturbing problem by 0.001% of 25.000002 - largest nonzero change 2.4094057e-05 ( 0.00021903688%) - largest zero change 1.7477855e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 249.99998 (24)
+Clp0032I PrimalInfeasible objective 0 - 1563 iterations time 0.062, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2474 (-2526) columns and 4948 (-2526) elements
+Clp0006I 0  Obj 0 Primal inf 149.99985 (150)
+Clp0029I End of values pass after 1818 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 149.99998 (17)
+Clp0032I PrimalInfeasible objective 0 - 1818 iterations time 0.072, Presolve 0.00, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2474 (-2526) columns and 4948 (-2526) elements
+Clp0006I 0  Obj 0 Primal inf 49.99985 (150)
+Clp0029I End of values pass after 1829 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 49.999991 (9)
+Clp0032I PrimalInfeasible objective 0 - 1829 iterations time 0.072, Presolve 0.00, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2474 (-2526) columns and 4948 (-2526) elements
+Clp1000I sum of infeasibilities 3.21953e-05 - average 2.14635e-07, 883 fixed columns
+Coin0506I Presolve 141 (-9) rows, 1582 (-892) columns and 3164 (-1784) elements
+Clp0006I 0  Obj 0 Primal inf 6.8607302e-06 (10) Dual inf 1.759826 (174)
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.062, Presolve 0.00, Idiot 0.05
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(89) : 13.0
+var(95) : 13.0
+var(97) : 13.0
+var(179) : 13.0
+var(186) : 7.0
+var(193) : 13.0
+var(194) : 13.0
+var(296) : 2.0
+var(298) : 10.0
+var(302) : 6.0
+var(376) : 1.0
+var(475) : 11.0
+var(526) : 2.0
+var(565) : 13.0
+var(587) : 13.0
+var(632) : 1.0
+var(633) : 13.0
+var(637) : 13.0
+var(639) : 13.0
+var(652) : 13.0
+var(682) : 13.0
+var(727) : 8.0
+var(819) : 9.0
+var(829) : 9.0
+var(842) : 12.0
+var(867) : 1.0
+var(885) : 13.0
+var(950) : 2.0
+var(962) : 13.0
+var(968) : 7.0
+var(1088) : 13.0
+var(1090) : 11.0
+var(1091) : 13.0
+var(1143) : 4.0
+var(1156) : 8.0
+var(1161) : 4.0
+var(1263) : 9.0
+var(1317) : 1.0
+var(1338) : 11.0
+var(1340) : 13.0
+var(1359) : 13.0
+var(1403) : 13.0
+var(1416) : 8.0
+var(1418) : 13.0
+var(1425) : 13.0
+var(1434) : 13.0
+var(1436) : 13.0
+var(1445) : 13.0
+var(1457) : 13.0
+var(1528) : 7.0
+var(1546) : 13.0
+var(1607) : 9.0
+var(1616) : 5.0
+var(1624) : 13.0
+var(1649) : 12.0
+var(1651) : 13.0
+var(1654) : 13.0
+var(1773) : 1.0
+var(1784) : 12.0
+var(1792) : 1.0
+var(1871) : 5.0
+var(1880) : 13.0
+var(1947) : 8.0
+var(1950) : 11.0
+var(2012) : 4.0
+var(2044) : 13.0
+var(2053) : 13.0
+var(2174) : 6.0
+var(2275) : 2.0
+var(2290) : 2.0
+var(2299) : 13.0
+var(2371) : 8.0
+var(2381) : 6.0
+var(2468) : 6.0
+var(2563) : 4.0
+var(2578) : 10.0
+var(2598) : 3.0
+var(2615) : 8.0
+var(2617) : 12.0
+var(2673) : 12.0
+var(2705) : 1.0
+var(2819) : 4.0
+var(2955) : 13.0
+var(2956) : 5.0
+var(3006) : 13.0
+var(3048) : 13.0
+var(3069) : 13.0
+var(3074) : 7.0
+var(3077) : 13.0
+var(3078) : 3.0
+var(3184) : 1.0
+var(3202) : 7.0
+var(3211) : 4.0
+var(3214) : 13.0
+var(3226) : 11.0
+var(3227) : 5.0
+var(3235) : 13.0
+var(3241) : 13.0
+var(3308) : 13.0
+var(3321) : 13.0
+var(3372) : 13.0
+var(3401) : 13.0
+var(3413) : 13.0
+var(3420) : 13.0
+var(3458) : 13.0
+var(3486) : 6.0
+var(3528) : 6.0
+var(3596) : 11.0
+var(3623) : 10.0
+var(3731) : 4.0
+var(3766) : 13.0
+var(3876) : 12.0
+var(3922) : 13.0
+var(3949) : 1.0
+var(4012) : 9.0
+var(4043) : 9.0
+var(4105) : 12.0
+var(4109) : 13.0
+var(4110) : 13.0
+var(4111) : 9.0
+var(4200) : 13.0
+var(4215) : 5.0
+var(4247) : 5.0
+var(4330) : 13.0
+var(4360) : 13.0
+var(4370) : 13.0
+var(4404) : 13.0
+var(4438) : 2.0
+var(4464) : 13.0
+var(4481) : 7.0
+var(4532) : 12.0
+var(4631) : 9.0
+var(4661) : 9.0
+var(4707) : 4.0
+var(4723) : 3.0
+var(4729) : 4.0
+var(4783) : 13.0
+var(4842) : 1.0
+var(4967) : 12.0
+var(4992) : 12.0
+Case #2: 13
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.00 seconds
+Cgl0004I processed model has 150 rows, 2474 columns (2474 integer (0 of which binary)) and 4948 elements
+Coin3009W Conflict graph built in 0.001 seconds, density: 0.000%
+Cbc0045I No integer variables out of 2474 objects (2474 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.03 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.03 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.03
+Time (Wallclock seconds):       0.04
+
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.04
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 1264.9999 (50) Dual inf 2417.9976 (2418)
+Clp0014I Perturbing problem by 0.001% of 9.1000007 - largest nonzero change 9.9156231e-05 ( 0.0099156231%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 102 iterations time 0.012, Idiot 0.00
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 1064.9998 (150)
+Clp0029I End of values pass after 1268 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1268 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 964.99985 (150)
+Clp0029I End of values pass after 1324 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1324 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 864.99985 (150)
+Clp0029I End of values pass after 1233 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1233 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 764.99985 (150)
+Clp0029I End of values pass after 2049 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 2049 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 664.99985 (150)
+Clp0029I End of values pass after 1890 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1890 iterations time 0.082, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 564.99985 (150)
+Clp0029I End of values pass after 1889 iterations
+Clp0014I Perturbing problem by 0.001% of 13.100001 - largest nonzero change 1.7602009e-05 ( 8.0009134e-05%) - largest zero change 2.5797209e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1890 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 464.99985 (150)
+Clp0029I End of values pass after 2125 iterations
+Clp0014I Perturbing problem by 0.001% of 13.766667 - largest nonzero change 8.7838696e-05 ( 0.00097598551%) - largest zero change 1.990217e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 2127 iterations time 0.072, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 364.99985 (150)
+Clp0029I End of values pass after 1999 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1999 iterations time 0.072, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 264.99985 (150)
+Clp0029I End of values pass after 2065 iterations
+Clp0014I Perturbing problem by 0.001% of 15.100001 - largest nonzero change 6.7444317e-05 ( 0.00061313016%) - largest zero change 1.120696e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 2066 iterations time 0.072, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 164.99985 (150)
+Clp0029I End of values pass after 2151 iterations
+Clp0014I Perturbing problem by 0.001% of 15.766667 - largest nonzero change 0.00012327094 ( 0.0010272578%) - largest zero change 2.6966986e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 2155 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 64.99985 (150)
+Clp0029I End of values pass after 1834 iterations
+Clp0014I Perturbing problem by 0.001% of 16.433334 - largest nonzero change 5.1017485e-05 ( 0.0003924422%) - largest zero change 1.9850116e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1835 iterations time 0.072, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 32.999997 (3)
+Clp0029I End of values pass after 1657 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1657 iterations time 0.102, Idiot 0.10
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 30.999997 (3)
+Clp0029I End of values pass after 1616 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1616 iterations time 0.092, Idiot 0.09
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 28.999998 (6) Dual inf 114.66982 (181)
+Clp0029I End of values pass after 1623 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1623 iterations time 0.092, Idiot 0.09
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 26.999997 (3)
+Clp0029I End of values pass after 1599 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1599 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 24.999999 (7) Dual inf 177.04972 (281)
+Clp0029I End of values pass after 1530 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1530 iterations time 0.092, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 22.999997 (3)
+Clp0029I End of values pass after 1496 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1496 iterations time 0.092, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 20.999997 (4) Dual inf 40.579902 (98)
+Clp0029I End of values pass after 1460 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1460 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 18.999997 (4) Dual inf 36.579906 (94)
+Clp0029I End of values pass after 1484 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1484 iterations time 0.092, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 16.999997 (3)
+Clp0029I End of values pass after 1507 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1507 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 14.999997 (4) Dual inf 8.099982 (18)
+Clp0029I End of values pass after 1509 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1509 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 12.999998 (5) Dual inf 69.219909 (91)
+Clp0029I End of values pass after 1481 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1481 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 10.999998 (4) Dual inf 10.069983 (17)
+Clp0029I End of values pass after 1462 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1462 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 8.9999974 (5) Dual inf 50.39991 (90)
+Clp0029I End of values pass after 1479 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1479 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 6.9999984 (6) Dual inf 151.71978 (223)
+Clp0029I End of values pass after 1491 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1491 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 4.9999975 (5) Dual inf 111.38985 (150)
+Clp0029I End of values pass after 1491 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1491 iterations time 0.072, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 2.9999971 (4) Dual inf 35.34993 (70)
+Clp0029I End of values pass after 1496 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1496 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp1000I sum of infeasibilities 1 - average 0.00666668, 3474 fixed columns
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp0006I 0  Obj 0 Primal inf 0.999997 (3)
+Clp0029I End of values pass after 1526 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0001I Primal infeasible - objective value 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 0 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 148 (-2) rows, 2416 (-2584) columns and 4832 (-2586) elements
+Clp1000I sum of infeasibilities 4.32365e-10 - average 2.92139e-12, 232 fixed columns
+Coin0506I Presolve 145 (-3) rows, 2181 (-235) columns and 4362 (-470) elements
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.032, Presolve 0.00, Idiot 0.03
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(20) : 3.0
+var(21) : 3.0
+var(28) : 3.0
+var(68) : 30.0
+var(117) : 15.0
+var(210) : 4.0
+var(305) : 5.0
+var(306) : 19.0
+var(322) : 1.0
+var(422) : 8.0
+var(531) : 3.0
+var(542) : 13.0
+var(605) : 2.0
+var(706) : 11.0
+var(815) : 22.0
+var(896) : 30.0
+var(912) : 22.0
+var(1042) : 17.0
+var(1069) : 30.0
+var(1070) : 1.0
+var(1102) : 21.0
+var(1200) : 3.0
+var(1303) : 8.0
+var(1431) : 20.0
+var(1505) : 23.0
+var(1640) : 26.0
+var(1641) : 30.0
+var(1759) : 5.0
+var(1853) : 4.0
+var(1902) : 9.0
+var(2001) : 24.0
+var(2003) : 22.0
+var(2019) : 12.0
+var(2066) : 30.0
+var(2117) : 15.0
+var(2120) : 11.0
+var(2208) : 30.0
+var(2238) : 12.0
+var(2374) : 16.0
+var(2410) : 3.0
+var(2500) : 27.0
+var(2514) : 30.0
+var(2593) : 15.0
+var(2607) : 12.0
+var(2743) : 26.0
+var(2877) : 22.0
+var(2999) : 19.0
+var(3011) : 30.0
+var(3013) : 25.0
+var(3016) : 25.0
+var(3194) : 10.0
+var(3201) : 6.0
+var(3304) : 28.0
+var(3307) : 18.0
+var(3413) : 5.0
+var(3510) : 12.0
+var(3604) : 2.0
+var(3609) : 15.0
+var(3730) : 11.0
+var(3876) : 21.0
+var(3961) : 29.0
+var(4016) : 5.0
+var(4019) : 3.0
+var(4109) : 15.0
+var(4181) : 15.0
+var(4210) : 11.0
+var(4219) : 15.0
+var(4221) : 27.0
+var(4395) : 2.0
+var(4415) : 8.0
+var(4420) : 16.0
+var(4476) : 9.0
+var(4512) : 8.0
+var(4518) : 16.0
+var(4622) : 15.0
+var(4745) : 30.0
+var(4770) : 29.0
+var(4867) : 25.0
+var(4895) : 28.0
+var(4924) : 4.0
+var(4944) : 30.0
+Case #3: 30
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.00 seconds
+Cgl0004I processed model has 148 rows, 2416 columns (2416 integer (46 of which binary)) and 4832 elements
+Coin3009W Conflict graph built in 0.001 seconds, density: 0.000%
+Cbc0045I No integer variables out of 2416 objects (2416 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.03 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.03 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.03
+Time (Wallclock seconds):       0.04
+
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.04
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 1327.9999 (50) Dual inf 2609.9974 (2610)
+Clp0014I Perturbing problem by 0.001% of 9.5200007 - largest nonzero change 9.5861404e-05 ( 0.0095861404%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 103 iterations time 0.012, Idiot 0.00
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 1127.9999 (150)
+Clp0029I End of values pass after 1686 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1686 iterations time 0.092, Idiot 0.09
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 1027.9998 (150)
+Clp0029I End of values pass after 1684 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1684 iterations time 0.092, Idiot 0.09
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 927.99985 (150)
+Clp0029I End of values pass after 1779 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1779 iterations time 0.082, Idiot 0.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 827.99985 (150)
+Clp0029I End of values pass after 1818 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1818 iterations time 0.082, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 727.99985 (150)
+Clp0029I End of values pass after 1828 iterations
+Clp0014I Perturbing problem by 0.001% of 12.853334 - largest nonzero change 0.00012588264 ( 0.00096832799%) - largest zero change 1.0860624e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1829 iterations time 0.082, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 627.99985 (150)
+Clp0029I End of values pass after 1790 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1790 iterations time 0.082, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 527.99985 (150)
+Clp0029I End of values pass after 1493 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1493 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 427.99985 (150)
+Clp0029I End of values pass after 1444 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1444 iterations time 0.062, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2610 (-2390) columns and 5220 (-2390) elements
+Clp0006I 0  Obj 0 Primal inf 327.99985 (150)
+Clp0029I End of values pass after 1258 iterations
+Clp0014I Perturbing problem by 0.001% of 26.560002 - largest nonzero change 0.00019845766 ( 0.000640186%) - largest zero change 1.8898423e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 327.99997 (26)
+Clp0032I PrimalInfeasible objective 0 - 1259 iterations time 0.052, Presolve 0.00, Idiot 0.04
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2610 (-2390) columns and 5220 (-2390) elements
+Clp0006I 0  Obj 0 Primal inf 227.99985 (150)
+Clp0029I End of values pass after 1796 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 227.99998 (23)
+Clp0032I PrimalInfeasible objective 0 - 1796 iterations time 0.062, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2610 (-2390) columns and 5220 (-2390) elements
+Clp0006I 0  Obj 0 Primal inf 127.99985 (150)
+Clp0029I End of values pass after 1678 iterations
+Clp0014I Perturbing problem by 0.001% of 26.560002 - largest nonzero change 6.120681e-05 ( 0.00047082161%) - largest zero change 2.8736027e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 127.99998 (16)
+Clp0032I PrimalInfeasible objective 0 - 1679 iterations time 0.052, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2610 (-2390) columns and 5220 (-2390) elements
+Clp0006I 0  Obj 0 Primal inf 27.99985 (150)
+Clp0029I End of values pass after 1814 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 27.999991 (9)
+Clp0032I PrimalInfeasible objective 0 - 1814 iterations time 0.062, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2610 (-2390) columns and 5220 (-2390) elements
+Clp1000I sum of infeasibilities 1.60341e-05 - average 1.06894e-07, 970 fixed columns
+Coin0506I Presolve 149 (-1) rows, 1639 (-971) columns and 3278 (-1942) elements
+Clp0006I 0  Obj 0 Primal inf 9.2351499e-07 (3) Dual inf 0.689931 (69)
+Clp0029I End of values pass after 1639 iterations
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.062, Presolve 0.00, Idiot 0.05
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(46) : 12.0
+var(76) : 3.0
+var(83) : 4.0
+var(86) : 3.0
+var(89) : 14.0
+var(90) : 14.0
+var(97) : 14.0
+var(173) : 14.0
+var(182) : 1.0
+var(227) : 6.0
+var(248) : 14.0
+var(285) : 14.0
+var(374) : 10.0
+var(396) : 10.0
+var(450) : 2.0
+var(488) : 14.0
+var(493) : 14.0
+var(542) : 12.0
+var(584) : 13.0
+var(632) : 14.0
+var(666) : 14.0
+var(669) : 4.0
+var(677) : 14.0
+var(770) : 2.0
+var(771) : 14.0
+var(899) : 6.0
+var(965) : 13.0
+var(1014) : 14.0
+var(1023) : 14.0
+var(1036) : 14.0
+var(1043) : 7.0
+var(1060) : 12.0
+var(1092) : 14.0
+var(1124) : 8.0
+var(1152) : 14.0
+var(1181) : 14.0
+var(1195) : 14.0
+var(1219) : 14.0
+var(1221) : 14.0
+var(1226) : 14.0
+var(1230) : 11.0
+var(1254) : 14.0
+var(1306) : 14.0
+var(1308) : 14.0
+var(1310) : 10.0
+var(1320) : 14.0
+var(1322) : 14.0
+var(1394) : 14.0
+var(1491) : 14.0
+var(1512) : 14.0
+var(1528) : 14.0
+var(1538) : 14.0
+var(1680) : 5.0
+var(1772) : 14.0
+var(1858) : 1.0
+var(1863) : 14.0
+var(1940) : 14.0
+var(1975) : 9.0
+var(2068) : 1.0
+var(2079) : 14.0
+var(2118) : 7.0
+var(2151) : 14.0
+var(2180) : 9.0
+var(2204) : 14.0
+var(2216) : 14.0
+var(2217) : 14.0
+var(2225) : 14.0
+var(2246) : 2.0
+var(2267) : 14.0
+var(2278) : 14.0
+var(2382) : 6.0
+var(2499) : 8.0
+var(2587) : 8.0
+var(2659) : 12.0
+var(2750) : 12.0
+var(2753) : 10.0
+var(2761) : 14.0
+var(2768) : 8.0
+var(2787) : 6.0
+var(2815) : 11.0
+var(2831) : 14.0
+var(2845) : 14.0
+var(2864) : 5.0
+var(2937) : 8.0
+var(2941) : 14.0
+var(3015) : 3.0
+var(3029) : 14.0
+var(3044) : 14.0
+var(3057) : 11.0
+var(3186) : 11.0
+var(3256) : 12.0
+var(3311) : 13.0
+var(3339) : 14.0
+var(3462) : 8.0
+var(3482) : 7.0
+var(3501) : 4.0
+var(3649) : 14.0
+var(3670) : 5.0
+var(3775) : 5.0
+var(3796) : 4.0
+var(3798) : 14.0
+var(3809) : 1.0
+var(3934) : 8.0
+var(4035) : 14.0
+var(4047) : 14.0
+var(4062) : 4.0
+var(4153) : 4.0
+var(4170) : 7.0
+var(4202) : 14.0
+var(4207) : 14.0
+var(4227) : 8.0
+var(4237) : 6.0
+var(4258) : 13.0
+var(4276) : 11.0
+var(4334) : 6.0
+var(4343) : 7.0
+var(4359) : 2.0
+var(4369) : 10.0
+var(4400) : 14.0
+var(4401) : 10.0
+var(4403) : 14.0
+var(4409) : 13.0
+var(4410) : 4.0
+var(4433) : 14.0
+var(4464) : 1.0
+var(4555) : 14.0
+var(4574) : 4.0
+var(4613) : 14.0
+var(4618) : 7.0
+var(4624) : 6.0
+var(4630) : 3.0
+var(4642) : 2.0
+var(4657) : 3.0
+var(4665) : 1.0
+var(4683) : 10.0
+var(4705) : 11.0
+var(4756) : 2.0
+var(4760) : 2.0
+var(4762) : 2.0
+var(4764) : 8.0
+var(4805) : 3.0
+var(4911) : 1.0
+var(4968) : 5.0
+var(4984) : 1.0
+Case #4: 14
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.00 seconds
+Cgl0004I processed model has 150 rows, 2610 columns (2610 integer (0 of which binary)) and 5220 elements
+Coin3009W Conflict graph built in 0.001 seconds, density: 0.000%
+Cbc0045I No integer variables out of 2610 objects (2610 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.03 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.03 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.03
+Time (Wallclock seconds):       0.04
+
+Total time (CPU seconds):       0.03   (Wallclock seconds):       0.04
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 1180 (50) Dual inf 2287.9977 (2288)
+Clp0014I Perturbing problem by 0.001% of 8.533334 - largest nonzero change 9.2981668e-05 ( 0.0092981668%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 105 iterations time 0.012, Idiot 0.00
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 979.99985 (150)
+Clp0029I End of values pass after 1459 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1459 iterations time 0.072, Idiot 0.07
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 879.99985 (150)
+Clp0029I End of values pass after 1604 iterations
+Clp0014I Perturbing problem by 0.001% of 9.8666673 - largest nonzero change 2.1818509e-05 ( 0.00021818509%) - largest zero change 1.5471272e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 1605 iterations time 0.072, Idiot 0.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp0006I 0  Obj 0 Primal inf 779.99985 (150)
+Clp0029I End of values pass after 994 iterations
+Clp0014I Perturbing problem by 0.001% of 23.600002 - largest nonzero change 7.2009305e-05 ( 0.00080010339%) - largest zero change 1.6478082e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 779.99996 (44)
+Clp0032I PrimalInfeasible objective 0 - 998 iterations time 0.042, Presolve 0.00, Idiot 0.04
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp0006I 0  Obj 0 Primal inf 679.99985 (150)
+Clp0029I End of values pass after 1035 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 679.99996 (45)
+Clp0032I PrimalInfeasible objective 0 - 1035 iterations time 0.042, Presolve 0.00, Idiot 0.04
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp0006I 0  Obj 0 Primal inf 579.99985 (150)
+Clp0029I End of values pass after 1943 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 579.99996 (42)
+Clp0032I PrimalInfeasible objective 0 - 1943 iterations time 0.052, Presolve 0.00, Idiot 0.04
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp0006I 0  Obj 0 Primal inf 479.99985 (150)
+Clp0029I End of values pass after 1210 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 479.99996 (38)
+Clp0032I PrimalInfeasible objective 0 - 1210 iterations time 0.042, Presolve 0.00, Idiot 0.04
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp0006I 0  Obj 0 Primal inf 379.99985 (150)
+Clp0029I End of values pass after 1237 iterations
+Clp0014I Perturbing problem by 0.001% of 23.600002 - largest nonzero change 0.00013355568 ( 0.0010602124%) - largest zero change 1.2395392e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 379.99997 (35)
+Clp0032I PrimalInfeasible objective 0 - 1239 iterations time 0.052, Presolve 0.00, Idiot 0.04
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp0006I 0  Obj 0 Primal inf 279.99985 (150)
+Clp0029I End of values pass after 1473 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 279.99997 (28)
+Clp0032I PrimalInfeasible objective 0 - 1473 iterations time 0.062, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp0006I 0  Obj 0 Primal inf 179.99985 (150)
+Clp0029I End of values pass after 1976 iterations
+Clp0014I Perturbing problem by 0.001% of 23.600002 - largest nonzero change 6.7480824e-05 ( 0.00061346204%) - largest zero change 2.556097e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 179.99998 (17)
+Clp0032I PrimalInfeasible objective 0 - 1978 iterations time 0.052, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp0006I 0  Obj 0 Primal inf 79.99985 (150)
+Clp0029I End of values pass after 1694 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 79.999991 (9)
+Clp0032I PrimalInfeasible objective 0 - 1694 iterations time 0.062, Presolve 0.00, Idiot 0.05
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 150 (0) rows, 2288 (-2712) columns and 4576 (-2712) elements
+Clp1000I sum of infeasibilities 6.10854e-11 - average 4.07236e-13, 262 fixed columns
+Coin0506I Presolve 150 (0) rows, 2026 (-262) columns and 4052 (-524) elements
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.032, Presolve 0.00, Idiot 0.03
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(18) : 12.0
+var(33) : 5.0
+var(103) : 12.0
+var(110) : 2.0
+var(210) : 8.0
+var(332) : 12.0
+var(347) : 4.0
+var(349) : 12.0
+var(368) : 7.0
+var(388) : 7.0
+var(440) : 5.0
+var(550) : 12.0
+var(581) : 4.0
+var(665) : 5.0
+var(712) : 12.0
+var(772) : 3.0
+var(817) : 12.0
+var(826) : 9.0
+var(878) : 12.0
+var(916) : 12.0
+var(960) : 9.0
+var(1031) : 4.0
+var(1135) : 11.0
+var(1213) : 2.0
+var(1301) : 12.0
+var(1334) : 12.0
+var(1361) : 8.0
+var(1447) : 8.0
+var(1508) : 12.0
+var(1566) : 12.0
+var(1577) : 2.0
+var(1610) : 2.0
+var(1628) : 1.0
+var(1643) : 12.0
+var(1651) : 12.0
+var(1659) : 3.0
+var(1664) : 12.0
+var(1679) : 12.0
+var(1687) : 9.0
+var(1696) : 7.0
+var(1729) : 4.0
+var(1820) : 11.0
+var(1822) : 12.0
+var(1831) : 7.0
+var(1870) : 12.0
+var(1872) : 9.0
+var(1877) : 7.0
+var(1991) : 10.0
+var(2000) : 12.0
+var(2002) : 11.0
+var(2011) : 12.0
+var(2077) : 1.0
+var(2192) : 8.0
+var(2237) : 11.0
+var(2255) : 12.0
+var(2288) : 1.0
+var(2359) : 9.0
+var(2404) : 12.0
+var(2406) : 7.0
+var(2409) : 12.0
+var(2424) : 4.0
+var(2426) : 3.0
+var(2431) : 1.0
+var(2446) : 12.0
+var(2457) : 12.0
+var(2494) : 12.0
+var(2515) : 12.0
+var(2536) : 3.0
+var(2606) : 5.0
+var(2702) : 1.0
+var(2795) : 12.0
+var(2863) : 9.0
+var(2887) : 3.0
+var(2928) : 11.0
+var(2983) : 8.0
+var(3040) : 2.0
+var(3119) : 12.0
+var(3125) : 12.0
+var(3130) : 9.0
+var(3213) : 10.0
+var(3224) : 5.0
+var(3298) : 12.0
+var(3352) : 8.0
+var(3424) : 3.0
+var(3533) : 7.0
+var(3536) : 9.0
+var(3540) : 5.0
+var(3545) : 2.0
+var(3558) : 12.0
+var(3638) : 2.0
+var(3685) : 12.0
+var(3738) : 10.0
+var(3739) : 12.0
+var(3748) : 6.0
+var(3841) : 12.0
+var(3848) : 6.0
+var(3860) : 3.0
+var(3863) : 3.0
+var(3923) : 12.0
+var(3942) : 12.0
+var(4007) : 12.0
+var(4027) : 12.0
+var(4045) : 6.0
+var(4145) : 4.0
+var(4154) : 12.0
+var(4165) : 7.0
+var(4171) : 12.0
+var(4173) : 12.0
+var(4175) : 12.0
+var(4176) : 12.0
+var(4181) : 5.0
+var(4191) : 2.0
+var(4282) : 12.0
+var(4283) : 4.0
+var(4369) : 12.0
+var(4374) : 5.0
+var(4380) : 12.0
+var(4381) : 3.0
+var(4384) : 12.0
+var(4386) : 12.0
+var(4405) : 12.0
+var(4435) : 1.0
+var(4444) : 12.0
+var(4453) : 11.0
+var(4456) : 11.0
+var(4529) : 8.0
+var(4530) : 3.0
+var(4553) : 1.0
+var(4567) : 12.0
+var(4577) : 2.0
+var(4599) : 12.0
+var(4614) : 12.0
+var(4661) : 4.0
+var(4668) : 5.0
+var(4720) : 1.0
+var(4790) : 12.0
+var(4796) : 5.0
+var(4797) : 12.0
+var(4837) : 1.0
+var(4852) : 4.0
+var(4862) : 12.0
+var(4874) : 7.0
+var(4893) : 12.0
+var(4921) : 12.0
+var(4956) : 1.0
+Case #5: 12
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.02 seconds
+Cgl0004I processed model has 150 rows, 2288 columns (2288 integer (0 of which binary)) and 4576 elements
+Coin3009W Conflict graph built in 0.000 seconds, density: 0.000%
+Cbc0045I No integer variables out of 2288 objects (2288 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.05 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.05 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.05
+Time (Wallclock seconds):       0.06
+
+Total time (CPU seconds):       0.05   (Wallclock seconds):       0.06
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11161 (100) Dual inf 24783.975 (24784)
+Clp0014I Perturbing problem by 0.001% of 19.435 - largest nonzero change 9.9667374e-05 ( 0.0099667374%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 506 iterations time 0.082, Idiot 0.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11161 (100) Dual inf 24783.975 (24784)
+Clp0014I Perturbing problem by 0.001% of 20.268334 - largest nonzero change 9.9460573e-05 ( 0.0049730287%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 511 iterations time 0.072, Idiot 0.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11161 (100) Dual inf 24783.975 (24784)
+Clp0014I Perturbing problem by 0.001% of 21.101667 - largest nonzero change 9.9792305e-05 ( 0.0037244138%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 518 iterations time 0.082, Idiot 0.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 22 infeas 9161, obj 0 - mu 8.5875832e-16, its 105, 12560 interior
+Clp0006I 0  Obj 0 Primal inf 9160.9994 (600)
+Clp0029I End of values pass after 12549 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 12549 iterations time 1.102, Idiot 0.98
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 8661, obj 0 - mu 1.0597714e-14, its 105, 19375 interior
+Clp0006I 0  Obj 0 Primal inf 8660.9994 (600)
+Clp0029I End of values pass after 19374 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19374 iterations time 1.042, Idiot 0.86
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 28 infeas 8161, obj 0 - mu 1.1772883e-15, its 105, 19643 interior
+Clp0006I 0  Obj 0 Primal inf 8160.9994 (600)
+Clp0029I End of values pass after 19643 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19643 iterations time 0.992, Idiot 0.81
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 7661, obj 0 - mu 1.0597714e-14, its 105, 19757 interior
+Clp0006I 0  Obj 0 Primal inf 7660.9994 (600)
+Clp0029I End of values pass after 19757 iterations
+Clp0014I Perturbing problem by 0.001% of 24.435 - largest nonzero change 3.6070024e-05 ( 3.6434367e-05%) - largest zero change 1.7887686e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19758 iterations time 1.062, Idiot 0.87
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 7160.9994 (600)
+Clp0014I Perturbing problem by 0.001% of 111.61 - largest nonzero change 7.4235663e-05 ( 0.00022495656%) - largest zero change 1.8314621e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 7160.9999 (90)
+Clp0032I PrimalInfeasible objective 0 - 20360 iterations time 0.692, Presolve 0.03, Idiot 0.58
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 6660.9994 (600)
+Clp0029I End of values pass after 20525 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 6660.9999 (89)
+Clp0032I PrimalInfeasible objective 0 - 20525 iterations time 0.682, Presolve 0.03, Idiot 0.57
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 6160.9994 (600)
+Clp0029I End of values pass after 20244 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 6160.9999 (88)
+Clp0032I PrimalInfeasible objective 0 - 20244 iterations time 0.732, Presolve 0.03, Idiot 0.62
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 5660.9994 (600)
+Clp0029I End of values pass after 21320 iterations
+Clp0014I Perturbing problem by 0.001% of 111.61 - largest nonzero change 0.0005609324 ( 0.00050534451%) - largest zero change 1.6217085e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 5660.9999 (80)
+Clp0032I PrimalInfeasible objective 0 - 21321 iterations time 0.692, Presolve 0.03, Idiot 0.57
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 5160.9994 (600)
+Clp0029I End of values pass after 21437 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 5160.9999 (76)
+Clp0032I PrimalInfeasible objective 0 - 21437 iterations time 0.742, Presolve 0.04, Idiot 0.61
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 4660.9994 (600)
+Clp0029I End of values pass after 21160 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 4660.9999 (77)
+Clp0032I PrimalInfeasible objective 0 - 21160 iterations time 0.772, Presolve 0.03, Idiot 0.65
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 4160.9994 (600)
+Clp0029I End of values pass after 20321 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 4160.9999 (74)
+Clp0032I PrimalInfeasible objective 0 - 20321 iterations time 0.812, Presolve 0.03, Idiot 0.70
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 3660.9994 (600)
+Clp0029I End of values pass after 20310 iterations
+Clp0014I Perturbing problem by 0.001% of 111.61 - largest nonzero change 0.000600897 ( 0.00079065395%) - largest zero change 2.7151435e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 3660.9999 (66)
+Clp0032I PrimalInfeasible objective 0 - 20311 iterations time 0.812, Presolve 0.03, Idiot 0.69
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 3160.9994 (600)
+Clp0029I End of values pass after 20407 iterations
+Clp0014I Perturbing problem by 0.001% of 111.61 - largest nonzero change 0.0010677636 ( 0.00050701562%) - largest zero change 2.407023e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 3160.9999 (61)
+Clp0032I PrimalInfeasible objective 0 - 20409 iterations time 0.692, Presolve 0.03, Idiot 0.57
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 2660.9994 (600)
+Clp0029I End of values pass after 20355 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 2660.9999 (58)
+Clp0032I PrimalInfeasible objective 0 - 20355 iterations time 0.602, Presolve 0.03, Idiot 0.48
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 2160.9994 (600)
+Clp0029I End of values pass after 20341 iterations
+Clp0014I Perturbing problem by 0.001% of 111.61 - largest nonzero change 0.001110342 ( 0.00087428503%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 2160.9999 (57)
+Clp0032I PrimalInfeasible objective 0 - 20342 iterations time 0.512, Presolve 0.03, Idiot 0.39
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 1660.9994 (600)
+Clp0029I End of values pass after 20461 iterations
+Clp0014I Perturbing problem by 0.001% of 111.61 - largest nonzero change 0.00012893064 ( 0.00064465319%) - largest zero change 2.8543944e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 1660.9999 (51)
+Clp0032I PrimalInfeasible objective 0 - 20462 iterations time 0.502, Presolve 0.03, Idiot 0.37
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 1160.9994 (600)
+Clp0029I End of values pass after 19701 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 1161 (39)
+Clp0032I PrimalInfeasible objective 0 - 19701 iterations time 0.622, Presolve 0.03, Idiot 0.50
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0006I 0  Obj 0 Primal inf 660.9994 (600)
+Clp0029I End of values pass after 17851 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 660.99997 (27)
+Clp0032I PrimalInfeasible objective 0 - 17851 iterations time 0.772, Presolve 0.03, Idiot 0.63
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp0030I 28 infeas 161, obj 0 - mu 1.1772883e-15, its 105, 21815 interior
+Clp0006I 0  Obj 0 Primal inf 160.9994 (600)
+Clp0029I End of values pass after 21812 iterations
+Clp0014I Perturbing problem by 0.001% of 111.61 - largest nonzero change 0.00049167136 ( 0.00073383785%) - largest zero change 1.8461811e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 160.99999 (14)
+Clp0032I PrimalInfeasible objective 0 - 21813 iterations time 0.942, Presolve 0.04, Idiot 0.79
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24784 (-25216) columns and 49568 (-25216) elements
+Clp1000I sum of infeasibilities 1.16334e-05 - average 1.9389e-08, 9484 fixed columns
+Coin0506I Presolve 599 (-1) rows, 15299 (-9485) columns and 30598 (-18970) elements
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.422, Presolve 0.03, Idiot 0.38
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(39) : 23.0
+var(41) : 23.0
+var(43) : 23.0
+var(52) : 23.0
+var(61) : 23.0
+var(64) : 23.0
+var(72) : 23.0
+var(80) : 11.0
+var(382) : 23.0
+var(424) : 23.0
+var(616) : 23.0
+var(630) : 23.0
+var(702) : 15.0
+var(774) : 23.0
+var(824) : 23.0
+var(885) : 23.0
+var(900) : 1.0
+var(913) : 23.0
+var(1073) : 23.0
+var(1076) : 23.0
+var(1080) : 12.0
+var(1088) : 23.0
+var(1094) : 23.0
+var(1095) : 21.0
+var(1281) : 23.0
+var(1566) : 23.0
+var(1601) : 10.0
+var(1807) : 23.0
+var(1861) : 23.0
+var(2376) : 10.0
+var(2582) : 23.0
+var(2583) : 23.0
+var(2586) : 23.0
+var(2587) : 23.0
+var(2590) : 23.0
+var(2591) : 23.0
+var(2596) : 23.0
+var(2598) : 21.0
+var(2613) : 23.0
+var(2622) : 13.0
+var(2627) : 23.0
+var(2628) : 23.0
+var(2638) : 19.0
+var(2643) : 23.0
+var(2652) : 19.0
+var(2890) : 23.0
+var(2934) : 23.0
+var(3188) : 23.0
+var(3223) : 23.0
+var(3268) : 23.0
+var(3286) : 23.0
+var(3313) : 14.0
+var(3457) : 23.0
+var(3513) : 23.0
+var(3744) : 2.0
+var(3842) : 23.0
+var(3863) : 23.0
+var(3915) : 1.0
+var(3917) : 9.0
+var(4448) : 9.0
+var(4756) : 20.0
+var(4764) : 23.0
+var(5099) : 7.0
+var(5273) : 23.0
+var(5535) : 6.0
+var(5545) : 1.0
+var(5574) : 2.0
+var(5605) : 23.0
+var(5620) : 23.0
+var(5649) : 23.0
+var(5652) : 4.0
+var(5668) : 23.0
+var(5686) : 23.0
+var(5695) : 23.0
+var(5705) : 23.0
+var(5707) : 23.0
+var(5709) : 23.0
+var(5833) : 23.0
+var(5845) : 23.0
+var(5859) : 23.0
+var(5864) : 7.0
+var(5878) : 8.0
+var(6014) : 23.0
+var(6161) : 1.0
+var(6213) : 23.0
+var(6230) : 23.0
+var(6241) : 11.0
+var(6284) : 23.0
+var(6294) : 3.0
+var(6301) : 1.0
+var(6302) : 23.0
+var(6315) : 23.0
+var(6322) : 23.0
+var(6336) : 23.0
+var(6428) : 23.0
+var(6759) : 3.0
+var(7161) : 11.0
+var(7187) : 23.0
+var(7227) : 7.0
+var(7239) : 23.0
+var(7352) : 9.0
+var(7364) : 16.0
+var(7547) : 23.0
+var(7611) : 23.0
+var(7617) : 23.0
+var(7624) : 23.0
+var(7640) : 23.0
+var(7648) : 23.0
+var(7689) : 23.0
+var(7703) : 23.0
+var(7712) : 6.0
+var(7747) : 23.0
+var(7813) : 9.0
+var(7814) : 23.0
+var(7820) : 11.0
+var(7835) : 23.0
+var(7858) : 23.0
+var(7898) : 23.0
+var(7939) : 23.0
+var(7963) : 23.0
+var(7968) : 23.0
+var(8259) : 20.0
+var(8301) : 22.0
+var(8330) : 23.0
+var(8414) : 23.0
+var(8535) : 1.0
+var(9104) : 23.0
+var(9131) : 23.0
+var(9156) : 23.0
+var(9265) : 23.0
+var(9319) : 13.0
+var(9343) : 20.0
+var(9365) : 23.0
+var(9418) : 13.0
+var(9441) : 21.0
+var(9626) : 23.0
+var(9659) : 23.0
+var(9701) : 23.0
+var(9752) : 23.0
+var(9794) : 20.0
+var(10275) : 23.0
+var(10292) : 14.0
+var(10447) : 23.0
+var(10466) : 5.0
+var(10684) : 23.0
+var(10881) : 23.0
+var(10994) : 3.0
+var(11257) : 23.0
+var(11288) : 1.0
+var(11422) : 23.0
+var(11577) : 23.0
+var(11751) : 23.0
+var(11793) : 23.0
+var(11841) : 20.0
+var(11848) : 14.0
+var(11850) : 23.0
+var(12206) : 23.0
+var(12487) : 7.0
+var(12491) : 23.0
+var(12532) : 15.0
+var(12535) : 16.0
+var(13145) : 5.0
+var(13504) : 17.0
+var(13542) : 23.0
+var(14004) : 5.0
+var(14020) : 23.0
+var(14022) : 23.0
+var(14023) : 23.0
+var(14026) : 23.0
+var(14142) : 23.0
+var(14246) : 23.0
+var(14278) : 23.0
+var(14392) : 12.0
+var(14436) : 23.0
+var(14571) : 23.0
+var(14575) : 2.0
+var(15217) : 23.0
+var(15343) : 3.0
+var(15465) : 23.0
+var(15531) : 23.0
+var(15534) : 11.0
+var(15569) : 23.0
+var(15570) : 23.0
+var(15700) : 23.0
+var(15892) : 11.0
+var(16055) : 23.0
+var(16063) : 23.0
+var(16068) : 14.0
+var(16075) : 21.0
+var(16110) : 23.0
+var(16160) : 23.0
+var(16216) : 23.0
+var(16276) : 23.0
+var(16295) : 23.0
+var(16297) : 23.0
+var(16536) : 23.0
+var(16585) : 23.0
+var(16650) : 23.0
+var(16657) : 23.0
+var(16796) : 14.0
+var(16925) : 23.0
+var(17167) : 23.0
+var(17176) : 23.0
+var(17323) : 23.0
+var(17405) : 22.0
+var(17427) : 23.0
+var(17510) : 23.0
+var(17512) : 23.0
+var(17584) : 10.0
+var(17772) : 23.0
+var(17782) : 23.0
+var(18084) : 13.0
+var(18097) : 16.0
+var(18134) : 23.0
+var(18144) : 23.0
+var(18290) : 23.0
+var(18332) : 8.0
+var(18370) : 23.0
+var(18416) : 14.0
+var(18482) : 23.0
+var(18943) : 17.0
+var(19008) : 23.0
+var(19227) : 16.0
+var(19515) : 8.0
+var(19525) : 23.0
+var(19534) : 12.0
+var(19641) : 23.0
+var(20038) : 23.0
+var(20049) : 23.0
+var(20067) : 23.0
+var(20146) : 23.0
+var(20192) : 23.0
+var(20196) : 23.0
+var(20198) : 19.0
+var(20837) : 23.0
+var(20855) : 23.0
+var(20904) : 23.0
+var(20986) : 23.0
+var(20988) : 5.0
+var(21177) : 23.0
+var(21185) : 7.0
+var(21299) : 23.0
+var(21383) : 23.0
+var(21733) : 10.0
+var(21783) : 1.0
+var(21956) : 23.0
+var(22018) : 23.0
+var(22044) : 23.0
+var(22058) : 23.0
+var(22171) : 23.0
+var(22225) : 23.0
+var(22237) : 23.0
+var(22243) : 23.0
+var(22256) : 3.0
+var(22267) : 23.0
+var(22287) : 23.0
+var(22311) : 23.0
+var(22341) : 3.0
+var(22783) : 10.0
+var(22933) : 12.0
+var(22937) : 23.0
+var(23065) : 21.0
+var(23112) : 23.0
+var(23248) : 23.0
+var(23607) : 23.0
+var(23685) : 10.0
+var(23690) : 23.0
+var(23734) : 23.0
+var(23872) : 23.0
+var(24208) : 23.0
+var(24212) : 6.0
+var(24238) : 23.0
+var(24368) : 23.0
+var(24662) : 23.0
+var(24742) : 23.0
+var(24760) : 23.0
+var(24951) : 10.0
+var(24953) : 8.0
+var(25122) : 10.0
+var(25504) : 1.0
+var(26003) : 23.0
+var(26016) : 23.0
+var(26017) : 23.0
+var(26028) : 23.0
+var(26032) : 8.0
+var(26328) : 23.0
+var(26551) : 23.0
+var(26554) : 23.0
+var(26560) : 23.0
+var(26565) : 2.0
+var(26581) : 23.0
+var(26719) : 23.0
+var(26804) : 23.0
+var(26827) : 4.0
+var(26838) : 23.0
+var(26874) : 23.0
+var(27092) : 23.0
+var(27212) : 11.0
+var(27270) : 23.0
+var(27289) : 23.0
+var(27548) : 23.0
+var(27593) : 23.0
+var(27871) : 18.0
+var(27945) : 23.0
+var(27977) : 23.0
+var(28305) : 3.0
+var(28783) : 12.0
+var(28903) : 23.0
+var(29327) : 12.0
+var(29493) : 7.0
+var(29741) : 12.0
+var(29754) : 23.0
+var(29829) : 23.0
+var(29866) : 23.0
+var(30027) : 23.0
+var(30057) : 23.0
+var(30062) : 23.0
+var(30079) : 23.0
+var(30185) : 6.0
+var(30537) : 1.0
+var(30618) : 23.0
+var(30635) : 23.0
+var(30678) : 23.0
+var(30736) : 23.0
+var(30816) : 23.0
+var(30818) : 23.0
+var(30846) : 23.0
+var(30857) : 23.0
+var(30860) : 23.0
+var(30884) : 23.0
+var(30912) : 23.0
+var(30919) : 23.0
+var(30920) : 23.0
+var(31320) : 12.0
+var(31501) : 23.0
+var(31502) : 23.0
+var(31506) : 23.0
+var(31509) : 23.0
+var(31515) : 15.0
+var(32007) : 23.0
+var(32011) : 23.0
+var(32021) : 23.0
+var(32037) : 1.0
+var(32068) : 9.0
+var(32078) : 23.0
+var(32106) : 23.0
+var(32123) : 23.0
+var(32151) : 23.0
+var(32163) : 23.0
+var(32197) : 23.0
+var(32215) : 23.0
+var(32271) : 23.0
+var(32300) : 23.0
+var(32326) : 23.0
+var(32340) : 23.0
+var(32344) : 23.0
+var(32348) : 9.0
+var(32441) : 2.0
+var(32467) : 23.0
+var(32481) : 5.0
+var(32494) : 20.0
+var(32498) : 23.0
+var(32629) : 9.0
+var(32755) : 23.0
+var(33137) : 23.0
+var(33153) : 23.0
+var(33158) : 23.0
+var(33232) : 23.0
+var(33291) : 23.0
+var(33308) : 23.0
+var(33351) : 23.0
+var(33354) : 23.0
+var(33367) : 23.0
+var(33373) : 23.0
+var(33375) : 23.0
+var(33423) : 2.0
+var(33597) : 7.0
+var(33827) : 7.0
+var(33834) : 23.0
+var(33877) : 23.0
+var(33897) : 23.0
+var(33906) : 23.0
+var(33921) : 23.0
+var(33942) : 23.0
+var(33971) : 23.0
+var(33984) : 23.0
+var(33985) : 16.0
+var(33988) : 18.0
+var(34037) : 21.0
+var(34132) : 23.0
+var(34235) : 23.0
+var(34378) : 15.0
+var(34380) : 23.0
+var(34402) : 22.0
+var(34426) : 23.0
+var(34485) : 7.0
+var(34490) : 23.0
+var(34496) : 23.0
+var(34499) : 23.0
+var(34670) : 23.0
+var(34680) : 23.0
+var(34744) : 21.0
+var(34796) : 9.0
+var(34911) : 23.0
+var(35103) : 23.0
+var(35129) : 14.0
+var(35198) : 4.0
+var(35226) : 23.0
+var(35231) : 23.0
+var(35280) : 23.0
+var(35288) : 22.0
+var(35356) : 23.0
+var(35376) : 13.0
+var(35391) : 23.0
+var(35393) : 23.0
+var(35394) : 1.0
+var(35497) : 23.0
+var(35887) : 23.0
+var(35909) : 12.0
+var(36169) : 23.0
+var(36173) : 23.0
+var(36379) : 23.0
+var(36395) : 23.0
+var(36396) : 23.0
+var(36432) : 23.0
+var(36440) : 23.0
+var(36444) : 23.0
+var(36450) : 23.0
+var(36455) : 10.0
+var(36492) : 23.0
+var(36900) : 22.0
+var(37040) : 23.0
+var(37056) : 23.0
+var(37279) : 23.0
+var(37394) : 13.0
+var(37462) : 23.0
+var(37476) : 23.0
+var(37602) : 16.0
+var(37682) : 23.0
+var(37753) : 23.0
+var(37810) : 23.0
+var(37849) : 23.0
+var(37889) : 23.0
+var(37901) : 23.0
+var(37908) : 22.0
+var(37909) : 11.0
+var(37915) : 22.0
+var(37923) : 21.0
+var(37970) : 23.0
+var(37993) : 16.0
+var(38099) : 16.0
+var(38292) : 9.0
+var(38303) : 23.0
+var(38524) : 23.0
+var(38574) : 21.0
+var(38750) : 23.0
+var(38777) : 23.0
+var(38987) : 16.0
+var(39100) : 23.0
+var(39109) : 23.0
+var(39121) : 23.0
+var(39125) : 23.0
+var(39155) : 23.0
+var(39161) : 4.0
+var(39164) : 23.0
+var(39210) : 23.0
+var(39369) : 23.0
+var(39615) : 23.0
+var(39638) : 4.0
+var(40030) : 23.0
+var(40108) : 23.0
+var(40139) : 23.0
+var(40145) : 18.0
+var(40165) : 23.0
+var(40191) : 23.0
+var(40261) : 23.0
+var(40306) : 23.0
+var(40309) : 23.0
+var(40319) : 9.0
+var(40832) : 15.0
+var(41000) : 23.0
+var(41053) : 19.0
+var(41598) : 2.0
+var(42059) : 23.0
+var(42095) : 2.0
+var(42114) : 23.0
+var(42119) : 23.0
+var(42161) : 7.0
+var(42204) : 23.0
+var(42218) : 23.0
+var(42229) : 23.0
+var(42410) : 23.0
+var(42722) : 23.0
+var(42766) : 23.0
+var(42825) : 23.0
+var(42899) : 23.0
+var(42902) : 1.0
+var(42980) : 23.0
+var(42989) : 23.0
+var(42995) : 23.0
+var(43133) : 23.0
+var(43147) : 23.0
+var(43214) : 23.0
+var(43224) : 23.0
+var(43228) : 23.0
+var(43240) : 23.0
+var(43285) : 23.0
+var(43298) : 23.0
+var(43317) : 23.0
+var(43386) : 23.0
+var(43449) : 23.0
+var(43453) : 15.0
+var(43458) : 23.0
+var(43461) : 23.0
+var(43763) : 23.0
+var(43930) : 12.0
+var(44102) : 7.0
+var(44321) : 23.0
+var(44394) : 9.0
+var(44429) : 23.0
+var(44438) : 23.0
+var(44473) : 23.0
+var(44819) : 1.0
+var(45005) : 23.0
+var(45019) : 23.0
+var(45033) : 23.0
+var(45053) : 4.0
+var(45089) : 23.0
+var(45172) : 23.0
+var(45262) : 23.0
+var(45339) : 23.0
+var(45362) : 23.0
+var(45371) : 4.0
+var(45481) : 18.0
+var(45749) : 23.0
+var(45888) : 23.0
+var(45908) : 1.0
+var(46305) : 20.0
+var(46371) : 1.0
+var(46405) : 1.0
+var(46529) : 23.0
+var(46546) : 23.0
+var(46666) : 23.0
+var(46681) : 23.0
+var(46683) : 23.0
+var(46693) : 23.0
+var(46699) : 23.0
+var(46702) : 8.0
+var(46733) : 13.0
+var(46758) : 23.0
+var(47352) : 14.0
+var(47812) : 23.0
+var(47916) : 9.0
+var(48418) : 10.0
+var(48550) : 7.0
+var(48954) : 23.0
+var(48974) : 23.0
+var(49045) : 22.0
+var(49050) : 16.0
+var(49101) : 13.0
+var(49136) : 23.0
+var(49154) : 23.0
+var(49174) : 23.0
+var(49175) : 23.0
+var(49179) : 1.0
+var(49194) : 23.0
+var(49220) : 23.0
+var(49245) : 23.0
+var(49331) : 23.0
+var(49478) : 23.0
+var(49679) : 22.0
+var(49711) : 23.0
+var(49721) : 23.0
+var(49769) : 23.0
+var(49847) : 23.0
+var(49853) : 23.0
+var(49907) : 23.0
+var(49935) : 23.0
+var(49948) : 14.0
+Case #6: 23
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.01 seconds
+Cgl0004I processed model has 600 rows, 24784 columns (24784 integer (0 of which binary)) and 49568 elements
+Coin3009W Conflict graph built in 0.006 seconds, density: 0.000%
+Cbc0045I No integer variables out of 24784 objects (24784 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.59 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.60 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.42
+Time (Wallclock seconds):       0.66
+
+Total time (CPU seconds):       0.42   (Wallclock seconds):       0.66
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11406 (100) Dual inf 22997.977 (22998)
+Clp0014I Perturbing problem by 0.001% of 19.843334 - largest nonzero change 9.9753782e-05 ( 0.0099753782%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 504 iterations time 0.082, Idiot 0.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11406 (100) Dual inf 22997.977 (22998)
+Clp0014I Perturbing problem by 0.001% of 20.676667 - largest nonzero change 9.9940352e-05 ( 0.0049970176%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 507 iterations time 0.072, Idiot 0.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11406 (100) Dual inf 22997.977 (22998)
+Clp0014I Perturbing problem by 0.001% of 21.51 - largest nonzero change 9.9740335e-05 ( 0.0033246778%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 512 iterations time 0.082, Idiot 0.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 23 infeas 9406, obj 0 - mu 2.8622415e-13, its 105, 18839 interior
+Clp0006I 0  Obj 0 Primal inf 9405.9994 (600)
+Clp0029I End of values pass after 18836 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18836 iterations time 1.172, Idiot 1.00
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 23 infeas 8906, obj 0 - mu 2.8622415e-13, its 105, 18842 interior
+Clp0006I 0  Obj 0 Primal inf 8905.9994 (600)
+Clp0029I End of values pass after 18840 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18840 iterations time 1.172, Idiot 0.99
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 22 infeas 8406, obj 0 - mu 8.5875832e-13, its 105, 18612 interior
+Clp0006I 0  Obj 0 Primal inf 8405.9994 (600)
+Clp0029I End of values pass after 18598 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18598 iterations time 1.332, Idiot 1.09
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 13 infeas 7906, obj 0 - mu 1.691816e-08, its 105, 18720 interior
+Clp0030I 26 infeas 7906, obj 0 - mu 1.0597714e-14, its 105, 18725 interior
+Clp0006I 0  Obj 0 Primal inf 7905.9994 (600)
+Clp0029I End of values pass after 18722 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18722 iterations time 1.712, Idiot 1.53
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 23 infeas 7406, obj 0 - mu 2.8622415e-13, its 105, 18660 interior
+Clp0006I 0  Obj 0 Primal inf 7405.9994 (600)
+Clp0029I End of values pass after 18654 iterations
+Clp0014I Perturbing problem by 0.001% of 25.676667 - largest nonzero change 2.9193568e-05 ( 0.00017172687%) - largest zero change 2.1287554e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18655 iterations time 1.212, Idiot 1.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 22 infeas 6906, obj 0 - mu 8.5875832e-13, its 105, 19252 interior
+Clp0006I 0  Obj 0 Primal inf 6905.9994 (600)
+Clp0029I End of values pass after 19242 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19242 iterations time 1.462, Idiot 1.13
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 16 infeas 6406, obj 0 - mu 6.2641057e-10, its 105, 18559 interior
+Clp0030I 30 infeas 6406, obj 0 - mu 1.3078365e-16, its 105, 18544 interior
+Clp0006I 0  Obj 0 Primal inf 6405.9994 (600)
+Clp0029I End of values pass after 18543 iterations
+Clp0014I Perturbing problem by 0.001% of 27.343334 - largest nonzero change 0.00015417 ( 0.00054718973%) - largest zero change 2.6774595e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18545 iterations time 1.762, Idiot 1.44
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 17 infeas 5906, obj 0 - mu 2.0878264e-10, its 105, 19143 interior
+Clp0030I 29 infeas 5906, obj 0 - mu 3.923902e-16, its 105, 19141 interior
+Clp0006I 0  Obj 0 Primal inf 5905.9994 (600)
+Clp0029I End of values pass after 19141 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19141 iterations time 1.782, Idiot 1.51
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 16 infeas 5406, obj 0 - mu 6.2641057e-10, its 105, 18422 interior
+Clp0030I 28 infeas 5406, obj 0 - mu 1.1772883e-15, its 105, 18400 interior
+Clp0006I 0  Obj 0 Primal inf 5405.9994 (600)
+Clp0029I End of values pass after 18398 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18398 iterations time 1.712, Idiot 1.50
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 24 infeas 4906, obj 0 - mu 9.5398509e-14, its 105, 19847 interior
+Clp0006I 0  Obj 0 Primal inf 4905.9994 (600)
+Clp0029I End of values pass after 19847 iterations
+Clp0014I Perturbing problem by 0.001% of 29.843334 - largest nonzero change 6.756439e-05 ( 0.00016891098%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19848 iterations time 1.172, Idiot 0.98
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 23 infeas 4406, obj 0 - mu 2.8622415e-13, its 105, 18595 interior
+Clp0006I 0  Obj 0 Primal inf 4405.9994 (600)
+Clp0029I End of values pass after 18590 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18590 iterations time 1.222, Idiot 1.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 18 infeas 3906, obj 0 - mu 6.9587255e-11, its 105, 18989 interior
+Clp0030I 30 infeas 3906, obj 0 - mu 1.3078365e-16, its 105, 18991 interior
+Clp0006I 0  Obj 0 Primal inf 3905.9994 (600)
+Clp0029I End of values pass after 18991 iterations
+Clp0014I Perturbing problem by 0.001% of 31.51 - largest nonzero change 0.00031873029 ( 0.0010281622%) - largest zero change 1.5755655e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18992 iterations time 1.702, Idiot 1.44
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 17 infeas 3406, obj 0 - mu 2.0878264e-10, its 105, 19616 interior
+Clp0006I 0  Obj 0 Primal inf 3405.9994 (600)
+Clp0029I End of values pass after 19615 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19615 iterations time 1.432, Idiot 1.23
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 22 infeas 2906, obj 0 - mu 8.5875832e-13, its 105, 20052 interior
+Clp0006I 0  Obj 0 Primal inf 2905.9994 (600)
+Clp0029I End of values pass after 20052 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 20052 iterations time 1.302, Idiot 1.06
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 24 infeas 2406, obj 0 - mu 9.5398509e-14, its 105, 20021 interior
+Clp0006I 0  Obj 0 Primal inf 2405.9994 (600)
+Clp0029I End of values pass after 20020 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 20020 iterations time 1.182, Idiot 0.98
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 20 infeas 1906, obj 0 - mu 7.7303709e-12, its 105, 20311 interior
+Clp0030I 29 infeas 1906, obj 0 - mu 3.923902e-16, its 105, 20310 interior
+Clp0006I 0  Obj 0 Primal inf 1905.9994 (600)
+Clp0029I End of values pass after 20310 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 20310 iterations time 1.592, Idiot 1.37
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 28 infeas 1406, obj 0 - mu 1.1772883e-15, its 105, 20222 interior
+Clp0006I 0  Obj 0 Primal inf 1405.9994 (600)
+Clp0029I End of values pass after 20222 iterations
+Clp0014I Perturbing problem by 0.001% of 35.676667 - largest nonzero change 0.00032509194 ( 0.00032509194%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 20225 iterations time 1.002, Idiot 0.80
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 906, obj 0 - mu 3.1796323e-14, its 105, 20597 interior
+Clp0006I 0  Obj 0 Primal inf 905.9994 (600)
+Clp0029I End of values pass after 20597 iterations
+Clp0014I Perturbing problem by 0.001% of 36.51 - largest nonzero change 0.0002712146 ( 0.00025112463%) - largest zero change 2.6218914e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 20599 iterations time 1.302, Idiot 1.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 18 infeas 406, obj 0 - mu 6.9587255e-11, its 105, 20316 interior
+Clp0030I 29 infeas 406, obj 0 - mu 3.923902e-16, its 105, 20316 interior
+Clp0006I 0  Obj 0 Primal inf 405.9994 (600)
+Clp0029I End of values pass after 20316 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 20316 iterations time 1.782, Idiot 1.40
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 28.999991 (9)
+Clp0029I End of values pass after 17166 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 17166 iterations time 0.852, Idiot 0.63
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 22 infeas 21, obj 0 - mu 4.5692739e-07, its 52, 14236 interior
+Clp0006I 0  Obj 0 Primal inf 20.999994 (15) Dual inf 952.03845 (1550)
+Clp0029I End of values pass after 13824 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13824 iterations time 1.282, Idiot 1.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 24 infeas 13, obj 0 - mu 4.5692739e-07, its 52, 13852 interior
+Clp0006I 0  Obj 0 Primal inf 12.999992 (12) Dual inf 472.03933 (674)
+Clp0029I End of values pass after 13852 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13852 iterations time 1.032, Idiot 0.88
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 5, obj 0 - mu 1.522939e-07, its 52, 12976 interior
+Clp1000I sum of infeasibilities 5.00001 - average 0.00833335, 37024 fixed columns
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp0006I 0  Obj 0 Primal inf 4.999991 (9)
+Clp0029I End of values pass after 12976 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0001I Primal infeasible - objective value 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 0 iterations time 1.112, Idiot 1.09
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 22998 (-27002) columns and 45996 (-27002) elements
+Clp1000I sum of infeasibilities 2.60901e-06 - average 4.34835e-09, 9714 fixed columns
+Coin0506I Presolve 595 (-5) rows, 13279 (-9719) columns and 26558 (-19438) elements
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.272, Presolve 0.04, Idiot 0.24
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(171) : 27.0
+var(308) : 27.0
+var(438) : 1.0
+var(915) : 23.0
+var(1005) : 27.0
+var(1050) : 27.0
+var(1051) : 27.0
+var(1053) : 27.0
+var(1054) : 27.0
+var(1055) : 14.0
+var(1058) : 17.0
+var(1064) : 27.0
+var(1069) : 27.0
+var(1070) : 27.0
+var(1405) : 17.0
+var(1455) : 27.0
+var(1815) : 27.0
+var(1865) : 14.0
+var(2034) : 27.0
+var(2052) : 24.0
+var(2080) : 27.0
+var(2269) : 27.0
+var(2286) : 27.0
+var(2326) : 27.0
+var(2403) : 27.0
+var(2453) : 27.0
+var(2581) : 27.0
+var(2585) : 4.0
+var(2742) : 27.0
+var(3084) : 10.0
+var(3085) : 23.0
+var(3086) : 20.0
+var(3100) : 27.0
+var(3105) : 27.0
+var(3107) : 6.0
+var(3108) : 27.0
+var(3153) : 15.0
+var(3489) : 16.0
+var(3591) : 27.0
+var(3604) : 27.0
+var(3610) : 27.0
+var(3632) : 27.0
+var(3636) : 27.0
+var(3672) : 27.0
+var(3684) : 5.0
+var(4101) : 27.0
+var(4115) : 27.0
+var(4119) : 27.0
+var(4122) : 27.0
+var(4137) : 18.0
+var(4144) : 27.0
+var(4151) : 27.0
+var(4169) : 27.0
+var(4182) : 27.0
+var(4184) : 22.0
+var(4186) : 27.0
+var(4202) : 27.0
+var(4203) : 27.0
+var(4218) : 27.0
+var(4223) : 2.0
+var(4275) : 14.0
+var(4385) : 27.0
+var(4627) : 27.0
+var(4654) : 27.0
+var(4711) : 27.0
+var(4740) : 9.0
+var(4855) : 27.0
+var(4858) : 27.0
+var(4884) : 27.0
+var(4889) : 27.0
+var(4930) : 27.0
+var(4935) : 27.0
+var(4949) : 27.0
+var(4986) : 4.0
+var(5410) : 15.0
+var(5891) : 27.0
+var(5950) : 4.0
+var(6152) : 27.0
+var(6161) : 27.0
+var(6190) : 24.0
+var(6201) : 27.0
+var(6238) : 27.0
+var(6239) : 27.0
+var(6244) : 26.0
+var(6440) : 27.0
+var(6628) : 27.0
+var(6752) : 27.0
+var(6758) : 27.0
+var(6860) : 27.0
+var(6881) : 23.0
+var(7329) : 15.0
+var(7817) : 27.0
+var(7820) : 27.0
+var(7859) : 20.0
+var(7868) : 27.0
+var(7964) : 4.0
+var(7972) : 8.0
+var(8003) : 13.0
+var(8223) : 15.0
+var(8280) : 27.0
+var(8281) : 27.0
+var(8293) : 27.0
+var(8298) : 27.0
+var(8377) : 27.0
+var(8397) : 27.0
+var(8441) : 27.0
+var(8477) : 27.0
+var(8568) : 27.0
+var(8649) : 27.0
+var(8657) : 21.0
+var(8666) : 27.0
+var(8895) : 27.0
+var(8921) : 27.0
+var(8932) : 27.0
+var(8965) : 23.0
+var(9251) : 27.0
+var(9309) : 27.0
+var(9371) : 5.0
+var(9558) : 5.0
+var(10473) : 19.0
+var(10500) : 27.0
+var(10503) : 14.0
+var(10509) : 27.0
+var(10697) : 10.0
+var(10853) : 27.0
+var(10998) : 27.0
+var(11004) : 27.0
+var(11018) : 12.0
+var(11523) : 27.0
+var(11527) : 1.0
+var(11573) : 27.0
+var(11602) : 27.0
+var(11693) : 27.0
+var(11803) : 27.0
+var(11812) : 6.0
+var(11833) : 14.0
+var(11871) : 22.0
+var(11882) : 27.0
+var(11925) : 19.0
+var(12213) : 27.0
+var(12319) : 27.0
+var(12361) : 6.0
+var(12417) : 27.0
+var(12442) : 27.0
+var(12528) : 27.0
+var(12530) : 16.0
+var(12582) : 27.0
+var(12626) : 27.0
+var(13015) : 27.0
+var(13046) : 27.0
+var(13188) : 4.0
+var(13363) : 27.0
+var(13699) : 26.0
+var(13768) : 27.0
+var(14079) : 27.0
+var(14083) : 27.0
+var(14086) : 7.0
+var(14531) : 2.0
+var(15011) : 27.0
+var(15187) : 27.0
+var(15461) : 27.0
+var(15561) : 27.0
+var(15575) : 27.0
+var(15645) : 27.0
+var(15648) : 27.0
+var(15673) : 27.0
+var(15757) : 27.0
+var(15795) : 27.0
+var(15811) : 4.0
+var(16357) : 14.0
+var(16521) : 27.0
+var(16524) : 27.0
+var(16530) : 11.0
+var(16544) : 27.0
+var(16547) : 27.0
+var(16639) : 27.0
+var(16675) : 27.0
+var(16697) : 1.0
+var(16987) : 27.0
+var(16988) : 27.0
+var(17095) : 27.0
+var(17099) : 18.0
+var(17103) : 27.0
+var(17118) : 27.0
+var(17183) : 27.0
+var(17197) : 16.0
+var(17208) : 27.0
+var(17379) : 27.0
+var(17467) : 27.0
+var(17540) : 26.0
+var(17689) : 27.0
+var(18134) : 27.0
+var(18177) : 27.0
+var(18254) : 27.0
+var(18322) : 16.0
+var(18463) : 27.0
+var(18508) : 27.0
+var(18629) : 9.0
+var(18834) : 27.0
+var(18846) : 27.0
+var(18866) : 27.0
+var(18899) : 27.0
+var(18906) : 27.0
+var(19228) : 27.0
+var(19277) : 17.0
+var(19342) : 27.0
+var(19576) : 27.0
+var(19650) : 27.0
+var(19720) : 27.0
+var(19741) : 27.0
+var(19743) : 4.0
+var(19770) : 27.0
+var(20210) : 15.0
+var(20229) : 27.0
+var(20233) : 2.0
+var(20307) : 27.0
+var(20392) : 27.0
+var(20519) : 27.0
+var(20658) : 3.0
+var(20678) : 27.0
+var(20698) : 20.0
+var(20704) : 11.0
+var(20731) : 27.0
+var(20733) : 25.0
+var(20745) : 27.0
+var(20747) : 27.0
+var(20756) : 27.0
+var(20760) : 27.0
+var(20762) : 27.0
+var(20763) : 1.0
+var(20779) : 27.0
+var(20843) : 27.0
+var(20865) : 13.0
+var(20893) : 27.0
+var(20994) : 27.0
+var(20996) : 27.0
+var(21225) : 5.0
+var(21340) : 27.0
+var(21433) : 27.0
+var(21623) : 21.0
+var(22018) : 3.0
+var(22039) : 27.0
+var(22221) : 27.0
+var(22372) : 27.0
+var(22525) : 23.0
+var(22531) : 25.0
+var(22536) : 27.0
+var(22637) : 9.0
+var(22705) : 27.0
+var(23226) : 18.0
+var(23232) : 8.0
+var(23305) : 27.0
+var(23404) : 27.0
+var(23412) : 27.0
+var(23545) : 27.0
+var(23614) : 27.0
+var(23870) : 27.0
+var(23909) : 14.0
+var(24022) : 27.0
+var(24074) : 27.0
+var(24087) : 27.0
+var(24090) : 9.0
+var(24123) : 6.0
+var(24125) : 18.0
+var(24323) : 27.0
+var(24462) : 27.0
+var(24630) : 25.0
+var(24802) : 27.0
+var(25058) : 2.0
+var(25089) : 27.0
+var(25185) : 27.0
+var(25633) : 27.0
+var(25765) : 27.0
+var(25806) : 5.0
+var(25907) : 27.0
+var(26212) : 27.0
+var(26376) : 25.0
+var(26378) : 7.0
+var(26390) : 27.0
+var(26465) : 4.0
+var(26597) : 27.0
+var(26598) : 27.0
+var(26609) : 27.0
+var(26668) : 12.0
+var(26690) : 3.0
+var(26822) : 11.0
+var(27192) : 16.0
+var(27588) : 27.0
+var(27732) : 2.0
+var(27811) : 23.0
+var(28010) : 25.0
+var(28502) : 24.0
+var(28517) : 27.0
+var(28525) : 4.0
+var(28818) : 27.0
+var(29096) : 27.0
+var(29117) : 27.0
+var(29153) : 12.0
+var(29164) : 27.0
+var(29369) : 27.0
+var(29474) : 27.0
+var(29538) : 16.0
+var(29548) : 27.0
+var(29549) : 27.0
+var(29599) : 9.0
+var(30057) : 27.0
+var(30310) : 18.0
+var(30424) : 27.0
+var(30437) : 27.0
+var(30945) : 7.0
+var(31246) : 2.0
+var(31501) : 27.0
+var(31506) : 27.0
+var(31507) : 27.0
+var(31512) : 27.0
+var(31513) : 27.0
+var(31516) : 27.0
+var(31537) : 27.0
+var(31698) : 7.0
+var(31913) : 27.0
+var(32002) : 3.0
+var(32146) : 27.0
+var(32538) : 11.0
+var(33055) : 13.0
+var(33475) : 27.0
+var(33518) : 6.0
+var(33532) : 27.0
+var(33542) : 27.0
+var(33694) : 27.0
+var(33734) : 27.0
+var(33833) : 13.0
+var(34040) : 1.0
+var(34056) : 27.0
+var(34060) : 27.0
+var(34071) : 27.0
+var(34072) : 19.0
+var(34084) : 17.0
+var(34124) : 27.0
+var(34181) : 27.0
+var(34296) : 27.0
+var(34426) : 27.0
+var(34724) : 16.0
+var(35063) : 27.0
+var(35106) : 27.0
+var(35250) : 27.0
+var(35313) : 27.0
+var(35359) : 7.0
+var(35374) : 27.0
+var(35659) : 27.0
+var(35691) : 27.0
+var(35716) : 27.0
+var(35730) : 27.0
+var(35785) : 15.0
+var(35993) : 27.0
+var(36464) : 23.0
+var(36533) : 27.0
+var(36541) : 27.0
+var(36625) : 9.0
+var(36736) : 27.0
+var(36801) : 27.0
+var(36914) : 27.0
+var(36980) : 13.0
+var(37362) : 4.0
+var(37427) : 27.0
+var(37621) : 27.0
+var(37629) : 18.0
+var(37663) : 27.0
+var(37692) : 11.0
+var(37700) : 27.0
+var(37717) : 27.0
+var(37719) : 27.0
+var(37737) : 27.0
+var(37740) : 18.0
+var(38058) : 3.0
+var(38167) : 27.0
+var(38562) : 27.0
+var(38707) : 27.0
+var(38709) : 27.0
+var(38722) : 27.0
+var(38724) : 11.0
+var(38749) : 27.0
+var(38771) : 27.0
+var(38772) : 27.0
+var(38777) : 10.0
+var(38828) : 27.0
+var(38854) : 27.0
+var(38875) : 27.0
+var(38876) : 2.0
+var(38880) : 27.0
+var(38886) : 16.0
+var(38908) : 27.0
+var(39378) : 20.0
+var(39514) : 27.0
+var(39565) : 13.0
+var(40010) : 2.0
+var(40018) : 6.0
+var(40367) : 27.0
+var(40497) : 27.0
+var(40535) : 27.0
+var(40567) : 27.0
+var(40726) : 9.0
+var(41138) : 27.0
+var(41267) : 24.0
+var(41552) : 3.0
+var(41565) : 14.0
+var(41577) : 27.0
+var(41611) : 27.0
+var(41612) : 27.0
+var(41620) : 27.0
+var(41635) : 27.0
+var(41640) : 27.0
+var(41665) : 27.0
+var(41676) : 27.0
+var(41753) : 12.0
+var(41918) : 27.0
+var(42066) : 27.0
+var(42147) : 27.0
+var(42196) : 27.0
+var(42206) : 27.0
+var(42210) : 12.0
+var(42361) : 21.0
+var(42743) : 23.0
+var(42764) : 27.0
+var(42782) : 27.0
+var(42784) : 27.0
+var(42800) : 27.0
+var(42830) : 22.0
+var(43180) : 27.0
+var(43199) : 1.0
+var(43304) : 27.0
+var(43327) : 27.0
+var(43330) : 5.0
+var(43350) : 27.0
+var(43388) : 27.0
+var(43394) : 24.0
+var(43400) : 27.0
+var(43657) : 6.0
+var(43715) : 27.0
+var(43864) : 27.0
+var(43873) : 27.0
+var(43939) : 27.0
+var(43991) : 27.0
+var(44162) : 27.0
+var(44168) : 15.0
+var(44195) : 27.0
+var(44483) : 27.0
+var(44527) : 26.0
+var(44594) : 27.0
+var(44727) : 27.0
+var(44898) : 27.0
+var(45043) : 27.0
+var(45093) : 27.0
+var(45113) : 26.0
+var(45607) : 21.0
+var(45616) : 27.0
+var(45631) : 27.0
+var(45660) : 27.0
+var(45670) : 27.0
+var(45968) : 27.0
+var(46113) : 1.0
+var(46156) : 27.0
+var(46174) : 27.0
+var(46188) : 23.0
+var(46235) : 27.0
+var(46259) : 27.0
+var(46291) : 27.0
+var(46387) : 27.0
+var(46402) : 27.0
+var(46416) : 27.0
+var(46425) : 8.0
+var(46438) : 26.0
+var(46529) : 27.0
+var(46679) : 27.0
+var(46704) : 16.0
+var(46755) : 27.0
+var(47090) : 18.0
+var(47297) : 27.0
+var(47572) : 8.0
+var(47642) : 27.0
+var(47774) : 27.0
+var(48078) : 27.0
+var(48214) : 27.0
+var(48223) : 10.0
+var(48299) : 27.0
+var(48725) : 22.0
+var(48744) : 1.0
+var(48766) : 27.0
+var(48773) : 27.0
+var(48783) : 27.0
+var(48785) : 12.0
+var(48794) : 27.0
+var(48814) : 27.0
+var(48821) : 2.0
+var(49020) : 27.0
+var(49026) : 27.0
+var(49092) : 27.0
+var(49278) : 27.0
+var(49310) : 9.0
+var(49386) : 3.0
+var(49559) : 27.0
+var(49630) : 2.0
+var(49641) : 27.0
+var(49643) : 27.0
+var(49655) : 27.0
+var(49658) : 24.0
+var(49748) : 27.0
+var(49761) : 27.0
+var(49792) : 27.0
+var(49812) : 21.0
+var(49936) : 27.0
+Case #7: 27
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.01 seconds
+Cgl0004I processed model has 600 rows, 22998 columns (22998 integer (0 of which binary)) and 45996 elements
+Coin3009W Conflict graph built in 0.004 seconds, density: 0.000%
+Cbc0045I No integer variables out of 22998 objects (22998 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.40 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.41 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.42
+Time (Wallclock seconds):       0.54
+
+Total time (CPU seconds):       0.42   (Wallclock seconds):       0.55
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 9668.9999 (100) Dual inf 22739.977 (22740)
+Clp0014I Perturbing problem by 0.001% of 16.948334 - largest nonzero change 9.9419082e-05 ( 0.0099419082%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 508 iterations time 0.092, Idiot 0.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 9668.9999 (100) Dual inf 22739.977 (22740)
+Clp0014I Perturbing problem by 0.001% of 17.781667 - largest nonzero change 9.9797572e-05 ( 0.0069563365%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 511 iterations time 0.082, Idiot 0.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 9668.9999 (100) Dual inf 22739.977 (22740)
+Clp0014I Perturbing problem by 0.001% of 18.615 - largest nonzero change 9.9994694e-05 ( 0.0072823434%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 514 iterations time 0.072, Idiot 0.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 7669, obj 0 - mu 3.1796323e-14, its 105, 15636 interior
+Clp0006I 0  Obj 0 Primal inf 7668.9994 (600)
+Clp0029I End of values pass after 15632 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 15632 iterations time 1.122, Idiot 0.89
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 21 infeas 7169, obj 0 - mu 2.5765326e-12, its 105, 15982 interior
+Clp0006I 0  Obj 0 Primal inf 7168.9994 (600)
+Clp0029I End of values pass after 15960 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 15960 iterations time 1.382, Idiot 1.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 20 infeas 6669, obj 0 - mu 7.7303709e-12, its 105, 15880 interior
+Clp0006I 0  Obj 0 Primal inf 6668.9994 (600)
+Clp0029I End of values pass after 15852 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 15852 iterations time 1.352, Idiot 1.18
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 24 infeas 6169, obj 0 - mu 9.5398509e-14, its 105, 15696 interior
+Clp0006I 0  Obj 0 Primal inf 6168.9994 (600)
+Clp0029I End of values pass after 15693 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 15693 iterations time 1.162, Idiot 0.96
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 24 infeas 5669, obj 0 - mu 9.5398509e-14, its 105, 16425 interior
+Clp0006I 0  Obj 0 Primal inf 5668.9994 (600)
+Clp0029I End of values pass after 16421 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 16421 iterations time 1.202, Idiot 0.98
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 5169, obj 0 - mu 3.1796323e-14, its 105, 16822 interior
+Clp0006I 0  Obj 0 Primal inf 5168.9994 (600)
+Clp0029I End of values pass after 16822 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 16822 iterations time 1.062, Idiot 0.90
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 4669, obj 0 - mu 3.5322182e-15, its 105, 16599 interior
+Clp0006I 0  Obj 0 Primal inf 4668.9994 (600)
+Clp0029I End of values pass after 16594 iterations
+Clp0014I Perturbing problem by 0.001% of 24.448334 - largest nonzero change 5.6922827e-05 ( 0.00051748025%) - largest zero change 1.1406907e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 16595 iterations time 0.982, Idiot 0.82
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 4169, obj 0 - mu 3.5322182e-15, its 105, 17238 interior
+Clp0006I 0  Obj 0 Primal inf 4168.9994 (600)
+Clp0029I End of values pass after 17234 iterations
+Clp0014I Perturbing problem by 0.001% of 25.281667 - largest nonzero change 0.00010467091 ( 0.0008722576%) - largest zero change 1.1798708e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 17235 iterations time 0.992, Idiot 0.82
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 28 infeas 3669, obj 0 - mu 1.1772883e-15, its 105, 17497 interior
+Clp0006I 0  Obj 0 Primal inf 3668.9994 (600)
+Clp0029I End of values pass after 17496 iterations
+Clp0014I Perturbing problem by 0.001% of 26.115 - largest nonzero change 0.00010233839 ( 0.0007872184%) - largest zero change 1.574217e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 17497 iterations time 0.992, Idiot 0.82
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 3169, obj 0 - mu 3.5322182e-15, its 105, 17659 interior
+Clp0006I 0  Obj 0 Primal inf 3168.9994 (600)
+Clp0029I End of values pass after 17655 iterations
+Clp0014I Perturbing problem by 0.001% of 26.948334 - largest nonzero change 0.00022267076 ( 0.00018870403%) - largest zero change 1.2016471e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 17656 iterations time 1.002, Idiot 0.83
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 2669, obj 0 - mu 1.0597714e-14, its 105, 17238 interior
+Clp0006I 0  Obj 0 Primal inf 2668.9994 (600)
+Clp0029I End of values pass after 17233 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 17233 iterations time 1.162, Idiot 0.96
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 23 infeas 2169, obj 0 - mu 2.8622415e-13, its 105, 17491 interior
+Clp0006I 0  Obj 0 Primal inf 2168.9994 (600)
+Clp0029I End of values pass after 17478 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 17478 iterations time 1.182, Idiot 1.00
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 22 infeas 1669, obj 0 - mu 8.5875832e-13, its 105, 16959 interior
+Clp0006I 0  Obj 0 Primal inf 1668.9994 (600)
+Clp0029I End of values pass after 16929 iterations
+Clp0014I Perturbing problem by 0.001% of 29.448334 - largest nonzero change 0.00028440692 ( 0.00043754911%) - largest zero change 1.6087232e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 16930 iterations time 1.242, Idiot 1.04
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 1169, obj 0 - mu 3.1796323e-14, its 105, 15617 interior
+Clp0006I 0  Obj 0 Primal inf 1168.9994 (600)
+Clp0029I End of values pass after 15606 iterations
+Clp0014I Perturbing problem by 0.001% of 30.281667 - largest nonzero change 7.6272324e-05 ( 0.00069338476%) - largest zero change 1.7713121e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 15608 iterations time 1.262, Idiot 1.00
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 19 infeas 669, obj 0 - mu 2.3193432e-11, its 105, 16728 interior
+Clp0030I 29 infeas 669, obj 0 - mu 3.923902e-16, its 105, 16695 interior
+Clp0006I 0  Obj 0 Primal inf 668.9994 (600)
+Clp0029I End of values pass after 16693 iterations
+Clp0014I Perturbing problem by 0.001% of 31.115 - largest nonzero change 0.00016801811 ( 0.00020490013%) - largest zero change 2.5242541e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 16694 iterations time 1.732, Idiot 1.39
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 21 infeas 169, obj 0 - mu 2.5765326e-12, its 105, 17903 interior
+Clp0006I 0  Obj 0 Primal inf 168.9994 (600)
+Clp0029I End of values pass after 17903 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 17903 iterations time 1.252, Idiot 1.08
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 20 infeas 113, obj 0 - mu 7.7303709e-12, its 92, 13546 interior
+Clp0006I 0  Obj 0 Primal inf 112.99999 (12) Dual inf 1016.7387 (1288)
+Clp0029I End of values pass after 13484 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13484 iterations time 1.412, Idiot 1.27
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 22 infeas 107, obj 0 - mu 8.5875832e-13, its 82, 12984 interior
+Clp0006I 0  Obj 0 Primal inf 107 (24) Dual inf 2811.0347 (5290)
+Clp0029I End of values pass after 12959 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 12959 iterations time 1.342, Idiot 1.20
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 101, obj 0 - mu 3.1796323e-14, its 105, 12707 interior
+Clp0006I 0  Obj 0 Primal inf 100.99999 (16) Dual inf 1363.3177 (2286)
+Clp0029I End of values pass after 12695 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 12695 iterations time 1.262, Idiot 1.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 20 infeas 95, obj 0 - mu 7.7303709e-12, its 72, 12684 interior
+Clp0030I 30 infeas 95, obj 0 - mu 1.3078365e-16, its 105, 12682 interior
+Clp0006I 0  Obj 0 Primal inf 94.999996 (20) Dual inf 2405.2367 (3320)
+Clp0029I End of values pass after 12682 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 12682 iterations time 1.482, Idiot 1.32
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 20 infeas 89, obj 0 - mu 7.7303709e-12, its 72, 13157 interior
+Clp0006I 0  Obj 0 Primal inf 89.000003 (31) Dual inf 3297.7846 (5356)
+Clp0029I End of values pass after 13155 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13155 iterations time 1.312, Idiot 1.13
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 19 infeas 83, obj 0 - mu 2.3193432e-11, its 72, 13547 interior
+Clp0006I 0  Obj 0 Primal inf 82.999998 (22) Dual inf 1826.7268 (3186)
+Clp0029I End of values pass after 13547 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13547 iterations time 1.402, Idiot 1.21
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 23 infeas 77, obj 0 - mu 2.8622415e-13, its 72, 14907 interior
+Clp0006I 0  Obj 0 Primal inf 76.999992 (9) Dual inf 173.74975 (248)
+Clp0029I End of values pass after 14906 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 14906 iterations time 1.402, Idiot 1.13
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 20 infeas 71, obj 0 - mu 7.7303709e-12, its 72, 14650 interior
+Clp0006I 0  Obj 0 Primal inf 70.999997 (17) Dual inf 1670.0375 (2466)
+Clp0029I End of values pass after 14646 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 14646 iterations time 1.452, Idiot 1.20
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 65, obj 0 - mu 3.1796323e-14, its 92, 14974 interior
+Clp0006I 0  Obj 0 Primal inf 64.999993 (9) Dual inf 195.39977 (235)
+Clp0029I End of values pass after 14974 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 14974 iterations time 1.192, Idiot 0.97
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 23 infeas 59, obj 0 - mu 2.8622415e-13, its 62, 14808 interior
+Clp0006I 0  Obj 0 Primal inf 58.999993 (11) Dual inf 637.93907 (929)
+Clp0029I End of values pass after 14808 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 14808 iterations time 1.242, Idiot 1.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 53, obj 0 - mu 1.0597714e-14, its 105, 13121 interior
+Clp0006I 0  Obj 0 Primal inf 52.999994 (13) Dual inf 502.72913 (872)
+Clp0029I End of values pass after 13120 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13120 iterations time 1.182, Idiot 1.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 47, obj 0 - mu 1.0597714e-14, its 105, 12242 interior
+Clp0006I 0  Obj 0 Primal inf 46.999994 (15) Dual inf 720.91879 (1208)
+Clp0029I End of values pass after 12239 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 12239 iterations time 1.102, Idiot 0.91
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 43, obj 0 - mu 3.1796323e-14, its 105, 14765 interior
+Clp0006I 0  Obj 0 Primal inf 42.999998 (11) Dual inf 1065.2979 (2085)
+Clp0029I End of values pass after 14753 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 14753 iterations time 1.092, Idiot 0.95
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 40, obj 0 - mu 1.0597714e-14, its 105, 13827 interior
+Clp0006I 0  Obj 0 Primal inf 39.999998 (9) Dual inf 521.55893 (1072)
+Clp0029I End of values pass after 13820 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13820 iterations time 1.032, Idiot 0.90
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 37, obj 0 - mu 3.5322182e-15, its 105, 13500 interior
+Clp0006I 0  Obj 0 Primal inf 36.999998 (9) Dual inf 514.58893 (1068)
+Clp0029I End of values pass after 13496 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13496 iterations time 1.002, Idiot 0.87
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 34, obj 0 - mu 1.0597714e-14, its 105, 13561 interior
+Clp0006I 0  Obj 0 Primal inf 33.999997 (6) Dual inf 76.229703 (297)
+Clp0029I End of values pass after 13558 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13558 iterations time 1.022, Idiot 0.89
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 31, obj 0 - mu 3.5322182e-15, its 105, 13422 interior
+Clp0006I 0  Obj 0 Primal inf 30.999997 (8) Dual inf 384.57916 (838)
+Clp0029I End of values pass after 13422 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13422 iterations time 1.012, Idiot 0.88
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 27.999996 (5) Dual inf 55.659879 (121)
+Clp0029I End of values pass after 13216 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 13216 iterations time 0.752, Idiot 0.62
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 24.999996 (4)
+Clp0029I End of values pass after 12919 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 12919 iterations time 0.742, Idiot 0.62
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 21.999999 (9) Dual inf 622.789 (998)
+Clp0029I End of values pass after 11902 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 11902 iterations time 0.742, Idiot 0.62
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 31 infeas 19, obj 0 - mu 1e-30, its 105, 11538 interior
+Clp0006I 0  Obj 0 Primal inf 19.000002 (9) Dual inf 740.19894 (1057)
+Clp0029I End of values pass after 11538 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 11538 iterations time 0.882, Idiot 0.72
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 16.000002 (11) Dual inf 897.55865 (1349)
+Clp0029I End of values pass after 11365 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 11365 iterations time 0.782, Idiot 0.63
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 25 infeas 13, obj 0 - mu 1.522939e-07, its 52, 11285 interior
+Clp0006I 0  Obj 0 Primal inf 12.999997 (6) Dual inf 462.60938 (622)
+Clp0029I End of values pass after 11285 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 11285 iterations time 1.052, Idiot 0.87
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 28 infeas 10, obj 0 - mu 5.0759557e-08, its 52, 11192 interior
+Clp0006I 0  Obj 0 Primal inf 9.9999966 (5) Dual inf 146.45981 (192)
+Clp0029I End of values pass after 11192 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 11192 iterations time 0.952, Idiot 0.80
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 6.9999983 (10) Dual inf 789.97882 (1184)
+Clp0029I End of values pass after 10849 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 10849 iterations time 0.812, Idiot 0.68
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp1000I sum of infeasibilities 4.00002 - average 0.0066667, 39211 fixed columns
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp0006I 0  Obj 0 Primal inf 4.0000001 (10) Dual inf 780.2088 (1197)
+Clp0029I End of values pass after 10789 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0001I Primal infeasible - objective value 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 0 iterations time 0.752, Idiot 0.74
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp1000I sum of infeasibilities 1.00002 - average 0.0016667, 38822 fixed columns
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp0006I 0  Obj 0 Primal inf 0.99999745 (8) Dual inf 459.52929 (710)
+Clp0029I End of values pass after 11178 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0001I Primal infeasible - objective value 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 0 iterations time 0.752, Idiot 0.74
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 22740 (-27260) columns and 45480 (-27260) elements
+Clp1000I sum of infeasibilities 4.58784e-06 - average 7.6464e-09, 4298 fixed columns
+Coin0506I Presolve 581 (-19) rows, 18247 (-4493) columns and 36494 (-8986) elements
+Clp0006I 0  Obj 0 Primal inf 143.3308 (173) Dual inf 66.623337 (6663)
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.282, Presolve 0.03, Idiot 0.25
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(43) : 42.0
+var(44) : 47.0
+var(49) : 47.0
+var(50) : 17.0
+var(64) : 26.0
+var(67) : 47.0
+var(71) : 47.0
+var(72) : 47.0
+var(77) : 47.0
+var(81) : 47.0
+var(82) : 21.0
+var(83) : 47.0
+var(86) : 47.0
+var(87) : 47.0
+var(88) : 47.0
+var(89) : 47.0
+var(90) : 47.0
+var(91) : 47.0
+var(93) : 47.0
+var(94) : 47.0
+var(98) : 47.0
+var(99) : 47.0
+var(100) : 47.0
+var(101) : 47.0
+var(102) : 47.0
+var(103) : 47.0
+var(104) : 47.0
+var(105) : 47.0
+var(107) : 47.0
+var(108) : 47.0
+var(113) : 22.0
+var(114) : 42.0
+var(117) : 47.0
+var(118) : 47.0
+var(119) : 47.0
+var(120) : 47.0
+var(123) : 47.0
+var(124) : 23.0
+var(125) : 47.0
+var(126) : 47.0
+var(128) : 47.0
+var(129) : 47.0
+var(130) : 47.0
+var(131) : 47.0
+var(134) : 47.0
+var(137) : 47.0
+var(138) : 47.0
+var(139) : 47.0
+var(140) : 47.0
+var(141) : 47.0
+var(143) : 47.0
+var(144) : 47.0
+var(146) : 47.0
+var(147) : 47.0
+var(149) : 47.0
+var(150) : 47.0
+var(151) : 47.0
+var(153) : 47.0
+var(154) : 47.0
+var(156) : 47.0
+var(157) : 47.0
+var(158) : 47.0
+var(159) : 47.0
+var(160) : 47.0
+var(161) : 47.0
+var(162) : 47.0
+var(163) : 47.0
+var(164) : 47.0
+var(168) : 47.0
+var(169) : 47.0
+var(170) : 47.0
+var(173) : 47.0
+var(174) : 47.0
+var(179) : 47.0
+var(180) : 47.0
+var(181) : 47.0
+var(183) : 47.0
+var(184) : 47.0
+var(185) : 47.0
+var(186) : 47.0
+var(189) : 47.0
+var(190) : 47.0
+var(191) : 47.0
+var(192) : 47.0
+var(193) : 47.0
+var(194) : 47.0
+var(195) : 47.0
+var(197) : 47.0
+var(198) : 47.0
+var(199) : 32.0
+var(200) : 47.0
+var(204) : 47.0
+var(206) : 47.0
+var(207) : 47.0
+var(208) : 47.0
+var(209) : 47.0
+var(214) : 47.0
+var(216) : 25.0
+var(218) : 47.0
+var(220) : 47.0
+var(221) : 47.0
+var(223) : 47.0
+var(226) : 47.0
+var(227) : 47.0
+var(228) : 47.0
+var(229) : 47.0
+var(231) : 47.0
+var(232) : 47.0
+var(235) : 47.0
+var(238) : 47.0
+var(239) : 47.0
+var(241) : 47.0
+var(244) : 47.0
+var(245) : 47.0
+var(246) : 47.0
+var(248) : 47.0
+var(249) : 47.0
+var(250) : 47.0
+var(251) : 47.0
+var(252) : 47.0
+var(253) : 47.0
+var(254) : 47.0
+var(255) : 47.0
+var(258) : 47.0
+var(259) : 47.0
+var(260) : 47.0
+var(263) : 47.0
+var(266) : 47.0
+var(268) : 47.0
+var(269) : 47.0
+var(270) : 47.0
+var(273) : 47.0
+var(274) : 47.0
+var(276) : 47.0
+var(281) : 47.0
+var(284) : 47.0
+var(285) : 47.0
+var(286) : 47.0
+var(288) : 47.0
+var(295) : 47.0
+var(297) : 47.0
+var(301) : 47.0
+var(304) : 47.0
+var(305) : 47.0
+var(309) : 47.0
+var(311) : 47.0
+var(315) : 47.0
+var(318) : 47.0
+var(319) : 47.0
+var(321) : 47.0
+var(324) : 47.0
+var(327) : 47.0
+var(330) : 47.0
+var(333) : 47.0
+var(338) : 47.0
+var(340) : 47.0
+var(341) : 47.0
+var(348) : 47.0
+var(350) : 45.0
+var(352) : 47.0
+var(355) : 47.0
+var(358) : 47.0
+var(359) : 47.0
+var(362) : 47.0
+var(369) : 47.0
+var(373) : 47.0
+var(380) : 47.0
+var(383) : 47.0
+var(385) : 47.0
+var(386) : 47.0
+var(392) : 47.0
+var(398) : 47.0
+var(404) : 47.0
+var(421) : 47.0
+var(423) : 47.0
+var(424) : 47.0
+var(425) : 47.0
+var(431) : 47.0
+var(443) : 47.0
+var(445) : 47.0
+var(452) : 47.0
+var(456) : 47.0
+var(459) : 47.0
+var(465) : 47.0
+var(468) : 47.0
+var(479) : 47.0
+var(484) : 47.0
+var(485) : 47.0
+var(486) : 47.0
+var(488) : 47.0
+var(489) : 47.0
+var(494) : 47.0
+var(496) : 47.0
+var(497) : 47.0
+var(499) : 47.0
+var(597) : 47.0
+var(884) : 47.0
+var(1069) : 47.0
+var(1356) : 47.0
+var(1420) : 47.0
+var(1696) : 47.0
+var(1743) : 47.0
+var(1810) : 47.0
+var(1866) : 47.0
+var(1887) : 47.0
+var(1890) : 47.0
+var(2396) : 4.0
+var(2491) : 47.0
+var(2847) : 47.0
+var(2897) : 47.0
+var(2928) : 47.0
+var(2934) : 47.0
+var(2978) : 47.0
+var(3047) : 13.0
+var(3052) : 33.0
+var(3282) : 1.0
+var(3382) : 47.0
+var(3395) : 10.0
+var(3469) : 47.0
+var(3867) : 10.0
+var(3909) : 21.0
+var(3922) : 47.0
+var(3926) : 44.0
+var(3973) : 47.0
+var(3993) : 47.0
+var(4217) : 13.0
+var(4271) : 47.0
+var(4326) : 47.0
+var(4339) : 6.0
+var(4401) : 20.0
+var(4475) : 47.0
+var(4757) : 47.0
+var(4787) : 47.0
+var(4792) : 47.0
+var(4834) : 47.0
+var(4902) : 47.0
+var(4919) : 47.0
+var(4957) : 47.0
+var(4983) : 47.0
+var(5242) : 47.0
+var(5265) : 47.0
+var(5343) : 47.0
+var(5441) : 47.0
+var(5453) : 47.0
+var(5487) : 47.0
+var(5665) : 27.0
+var(5677) : 47.0
+var(5733) : 19.0
+var(5778) : 47.0
+var(5837) : 12.0
+var(5910) : 47.0
+var(5933) : 47.0
+var(6470) : 47.0
+var(6471) : 47.0
+var(6472) : 47.0
+var(6492) : 47.0
+var(6701) : 47.0
+var(6724) : 47.0
+var(6790) : 47.0
+var(6802) : 47.0
+var(6807) : 47.0
+var(6851) : 47.0
+var(6935) : 47.0
+var(6937) : 47.0
+var(6963) : 47.0
+var(6977) : 47.0
+var(7293) : 47.0
+var(7303) : 47.0
+var(7328) : 47.0
+var(7370) : 47.0
+var(7427) : 47.0
+var(7533) : 47.0
+var(7595) : 7.0
+var(7789) : 3.0
+var(7872) : 16.0
+var(7908) : 47.0
+var(8054) : 5.0
+var(8145) : 47.0
+var(8175) : 47.0
+var(8205) : 47.0
+var(8212) : 6.0
+var(8364) : 47.0
+var(8438) : 47.0
+var(8703) : 47.0
+var(8814) : 47.0
+var(8845) : 47.0
+var(9316) : 6.0
+var(9412) : 47.0
+var(9440) : 47.0
+var(9480) : 17.0
+var(9767) : 47.0
+var(9794) : 47.0
+var(9831) : 47.0
+var(9860) : 10.0
+var(9958) : 47.0
+var(10350) : 2.0
+var(10913) : 47.0
+var(10914) : 47.0
+var(10915) : 47.0
+var(10916) : 47.0
+var(11085) : 47.0
+var(11092) : 47.0
+var(11109) : 47.0
+var(11121) : 47.0
+var(11136) : 47.0
+var(11313) : 47.0
+var(11377) : 47.0
+var(11393) : 47.0
+var(11547) : 34.0
+var(11595) : 40.0
+var(11633) : 47.0
+var(11817) : 47.0
+var(11844) : 47.0
+var(11946) : 47.0
+var(12048) : 23.0
+var(12115) : 47.0
+var(12132) : 47.0
+var(12961) : 2.0
+var(12982) : 47.0
+var(13135) : 47.0
+var(13182) : 47.0
+var(13225) : 47.0
+var(13296) : 47.0
+var(13399) : 47.0
+var(13403) : 47.0
+var(13474) : 47.0
+var(13495) : 47.0
+var(13715) : 47.0
+var(13800) : 47.0
+var(13825) : 47.0
+var(13863) : 47.0
+var(13868) : 47.0
+var(13879) : 47.0
+var(13962) : 47.0
+var(14256) : 17.0
+var(14467) : 47.0
+var(14562) : 47.0
+var(14747) : 19.0
+var(14947) : 47.0
+var(15127) : 47.0
+var(15167) : 47.0
+var(15202) : 47.0
+var(15272) : 47.0
+var(15275) : 47.0
+var(15283) : 47.0
+var(15365) : 47.0
+var(15394) : 47.0
+var(15407) : 47.0
+var(15584) : 47.0
+var(15846) : 47.0
+var(15857) : 47.0
+var(15878) : 47.0
+var(15901) : 27.0
+var(15918) : 47.0
+var(15950) : 47.0
+var(15955) : 47.0
+var(15961) : 45.0
+var(15980) : 30.0
+var(16279) : 47.0
+var(16322) : 47.0
+var(16354) : 47.0
+var(16389) : 47.0
+var(16405) : 47.0
+var(16406) : 47.0
+var(16411) : 47.0
+var(16429) : 47.0
+var(16449) : 47.0
+var(16460) : 47.0
+var(16464) : 47.0
+var(16550) : 30.0
+var(16966) : 38.0
+var(17016) : 47.0
+var(17023) : 47.0
+var(17028) : 39.0
+var(17376) : 47.0
+var(17524) : 38.0
+var(17747) : 28.0
+var(18024) : 4.0
+var(18036) : 47.0
+var(18264) : 47.0
+var(18530) : 47.0
+var(18539) : 47.0
+var(18648) : 47.0
+var(18761) : 47.0
+var(18798) : 47.0
+var(18806) : 47.0
+var(18839) : 41.0
+var(19034) : 47.0
+var(19068) : 29.0
+var(19124) : 24.0
+var(19342) : 47.0
+var(19371) : 47.0
+var(19507) : 47.0
+var(19782) : 46.0
+var(20111) : 47.0
+var(20990) : 47.0
+var(21045) : 47.0
+var(21046) : 33.0
+var(21070) : 18.0
+var(21096) : 47.0
+var(21563) : 47.0
+var(22005) : 47.0
+var(22019) : 47.0
+var(22024) : 5.0
+var(22052) : 14.0
+var(22112) : 47.0
+var(22291) : 47.0
+var(22388) : 47.0
+var(22554) : 42.0
+var(22574) : 47.0
+var(22777) : 47.0
+var(22823) : 47.0
+var(22836) : 47.0
+var(22948) : 47.0
+var(23002) : 11.0
+var(23041) : 17.0
+var(23256) : 30.0
+var(23353) : 47.0
+var(23500) : 47.0
+var(23501) : 47.0
+var(23710) : 35.0
+var(24002) : 36.0
+var(24051) : 47.0
+var(24219) : 47.0
+var(24236) : 47.0
+var(24289) : 44.0
+var(24622) : 9.0
+var(24816) : 41.0
+var(25064) : 21.0
+var(25891) : 47.0
+var(26035) : 44.0
+var(26553) : 47.0
+var(26687) : 47.0
+var(27396) : 43.0
+var(27610) : 47.0
+var(28004) : 47.0
+var(28035) : 3.0
+var(28037) : 47.0
+var(28056) : 47.0
+var(28116) : 47.0
+var(28122) : 12.0
+var(28188) : 47.0
+var(28329) : 47.0
+var(28613) : 25.0
+var(29417) : 47.0
+var(29560) : 21.0
+var(29710) : 12.0
+var(29734) : 47.0
+var(29942) : 47.0
+var(30048) : 24.0
+var(30503) : 8.0
+var(30939) : 47.0
+var(31011) : 47.0
+var(31515) : 47.0
+var(31555) : 47.0
+var(31926) : 3.0
+var(32065) : 47.0
+var(32521) : 47.0
+var(32528) : 8.0
+var(32676) : 47.0
+var(32812) : 47.0
+var(32832) : 47.0
+var(32998) : 47.0
+var(33122) : 26.0
+var(33152) : 47.0
+var(33538) : 4.0
+var(33799) : 35.0
+var(33954) : 47.0
+var(34213) : 47.0
+var(34349) : 47.0
+var(34360) : 13.0
+var(34835) : 47.0
+var(34930) : 47.0
+var(35006) : 47.0
+var(35262) : 47.0
+var(35367) : 37.0
+var(35381) : 47.0
+var(35436) : 47.0
+var(35900) : 47.0
+var(36142) : 47.0
+var(36233) : 28.0
+var(36522) : 47.0
+var(36526) : 6.0
+var(36872) : 31.0
+var(37360) : 24.0
+var(37409) : 26.0
+var(37730) : 47.0
+var(38079) : 47.0
+var(38211) : 47.0
+var(38240) : 47.0
+var(38503) : 39.0
+var(38509) : 47.0
+var(38512) : 27.0
+var(39058) : 47.0
+var(39068) : 18.0
+var(39512) : 20.0
+var(39525) : 23.0
+var(40046) : 14.0
+var(40510) : 47.0
+var(40513) : 47.0
+var(40517) : 47.0
+var(40520) : 47.0
+var(41073) : 47.0
+var(41106) : 21.0
+var(41280) : 47.0
+var(41518) : 47.0
+var(41527) : 47.0
+var(41540) : 13.0
+var(41951) : 47.0
+var(42212) : 41.0
+var(42299) : 12.0
+var(42837) : 35.0
+var(43172) : 47.0
+var(43217) : 34.0
+var(43559) : 47.0
+var(43665) : 20.0
+var(44043) : 5.0
+var(44222) : 47.0
+var(44514) : 47.0
+var(44525) : 24.0
+var(44557) : 47.0
+var(44570) : 29.0
+var(44575) : 47.0
+var(44576) : 47.0
+var(44895) : 37.0
+var(45026) : 41.0
+var(45032) : 47.0
+var(45060) : 25.0
+var(45237) : 47.0
+var(45361) : 47.0
+var(45671) : 47.0
+var(45716) : 22.0
+var(46155) : 47.0
+var(46531) : 47.0
+var(46606) : 26.0
+var(46614) : 5.0
+var(47038) : 43.0
+var(47061) : 47.0
+var(47078) : 47.0
+var(47080) : 47.0
+var(47178) : 47.0
+var(47308) : 17.0
+var(47566) : 47.0
+var(47582) : 26.0
+var(47666) : 47.0
+var(47875) : 47.0
+var(47932) : 47.0
+var(48060) : 1.0
+var(48508) : 47.0
+var(48529) : 47.0
+var(48944) : 47.0
+var(49040) : 34.0
+var(49041) : 30.0
+var(49308) : 30.0
+var(49320) : 47.0
+var(49466) : 9.0
+var(49476) : 47.0
+var(49699) : 15.0
+Case #8: 47
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.01 seconds
+Cgl0004I processed model has 600 rows, 22740 columns (22740 integer (0 of which binary)) and 45480 elements
+Coin3009W Conflict graph built in 0.004 seconds, density: 0.000%
+Cbc0045I No integer variables out of 22740 objects (22740 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.32 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.34 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.33
+Time (Wallclock seconds):       0.40
+
+Total time (CPU seconds):       0.33   (Wallclock seconds):       0.40
+
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11798 (100) Dual inf 24863.975 (24864)
+Clp0014I Perturbing problem by 0.001% of 20.496667 - largest nonzero change 9.9925757e-05 ( 0.0099925757%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 505 iterations time 0.082, Idiot 0.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11798 (100) Dual inf 24863.975 (24864)
+Clp0014I Perturbing problem by 0.001% of 21.33 - largest nonzero change 9.9615006e-05 ( 0.0049807503%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 507 iterations time 0.082, Idiot 0.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11798 (100) Dual inf 24863.975 (24864)
+Clp0014I Perturbing problem by 0.001% of 22.163334 - largest nonzero change 9.9855717e-05 ( 0.0033285239%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 514 iterations time 0.072, Idiot 0.02
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0006I 0  Obj 0 Primal inf 11798 (100) Dual inf 24863.975 (24864)
+Clp0014I Perturbing problem by 0.001% of 22.996667 - largest nonzero change 9.9640038e-05 ( 0.0024910009%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 521 iterations time 0.072, Idiot 0.03
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 28 infeas 9298, obj 0 - mu 1.1772883e-15, its 105, 16769 interior
+Clp0006I 0  Obj 0 Primal inf 9297.9994 (600)
+Clp0029I End of values pass after 16767 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 16767 iterations time 0.962, Idiot 0.80
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 28 infeas 8798, obj 0 - mu 1.1772883e-15, its 105, 17266 interior
+Clp0006I 0  Obj 0 Primal inf 8797.9994 (600)
+Clp0029I End of values pass after 17264 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 17264 iterations time 0.972, Idiot 0.81
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 8298, obj 0 - mu 3.5322182e-15, its 105, 18945 interior
+Clp0006I 0  Obj 0 Primal inf 8297.9994 (600)
+Clp0029I End of values pass after 18945 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18945 iterations time 1.022, Idiot 0.85
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 7798, obj 0 - mu 1.0597714e-14, its 105, 18796 interior
+Clp0006I 0  Obj 0 Primal inf 7797.9994 (600)
+Clp0029I End of values pass after 18795 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18795 iterations time 1.082, Idiot 0.91
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 7298, obj 0 - mu 3.5322182e-15, its 105, 18255 interior
+Clp0006I 0  Obj 0 Primal inf 7297.9994 (600)
+Clp0029I End of values pass after 18255 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18255 iterations time 1.002, Idiot 0.84
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 26 infeas 6798, obj 0 - mu 1.0597714e-14, its 105, 18849 interior
+Clp0006I 0  Obj 0 Primal inf 6797.9994 (600)
+Clp0029I End of values pass after 18848 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 18848 iterations time 1.052, Idiot 0.87
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 6298, obj 0 - mu 3.5322182e-15, its 105, 19114 interior
+Clp0006I 0  Obj 0 Primal inf 6297.9994 (600)
+Clp0029I End of values pass after 19114 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19114 iterations time 1.022, Idiot 0.84
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 5798, obj 0 - mu 3.5322182e-15, its 105, 19642 interior
+Clp0006I 0  Obj 0 Primal inf 5797.9994 (600)
+Clp0029I End of values pass after 19642 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19642 iterations time 1.052, Idiot 0.84
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 27 infeas 5298, obj 0 - mu 3.5322182e-15, its 105, 19978 interior
+Clp0006I 0  Obj 0 Primal inf 5297.9994 (600)
+Clp0029I End of values pass after 19978 iterations
+Clp0014I Perturbing problem by 0.001% of 30.496667 - largest nonzero change 0.0001401096 ( 0.0010007828%) - largest zero change 2.6894305e-05
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 19979 iterations time 1.062, Idiot 0.86
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0507I Presolve determined that the problem was infeasible with tolerance of 1e-08
+Clp3003W Analysis indicates model infeasible or unbounded
+Clp0030I 28 infeas 4798, obj 0 - mu 1.1772883e-15, its 105, 20255 interior
+Clp0006I 0  Obj 0 Primal inf 4797.9994 (600)
+Clp0029I End of values pass after 20255 iterations
+Clp0001I Primal infeasible - objective value 0
+Clp0032I PrimalInfeasible objective 0 - 20255 iterations time 1.032, Idiot 0.83
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0030I 30 infeas 4298, obj 0 - mu 1.3078365e-16, its 105, 22239 interior
+Clp0006I 0  Obj 0 Primal inf 4297.9994 (600)
+Clp0029I End of values pass after 22239 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 4297.9999 (82)
+Clp0032I PrimalInfeasible objective 0 - 22239 iterations time 0.832, Presolve 0.03, Idiot 0.71
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0006I 0  Obj 0 Primal inf 3797.9994 (600)
+Clp0029I End of values pass after 22723 iterations
+Clp0014I Perturbing problem by 0.001% of 117.98 - largest nonzero change 0.00080949233 ( 0.00099937325%) - largest zero change 1.7325834e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 3797.9999 (75)
+Clp0032I PrimalInfeasible objective 0 - 22725 iterations time 0.822, Presolve 0.03, Idiot 0.68
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0030I 29 infeas 3298, obj 0 - mu 3.923902e-16, its 105, 22824 interior
+Clp0006I 0  Obj 0 Primal inf 3297.9994 (600)
+Clp0029I End of values pass after 22824 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 3297.9999 (70)
+Clp0032I PrimalInfeasible objective 0 - 22824 iterations time 0.862, Presolve 0.03, Idiot 0.74
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0030I 29 infeas 2798, obj 0 - mu 3.923902e-16, its 105, 22954 interior
+Clp0006I 0  Obj 0 Primal inf 2797.9994 (600)
+Clp0029I End of values pass after 22954 iterations
+Clp0014I Perturbing problem by 0.001% of 117.98 - largest nonzero change 0.0001461977 ( 0.00076946159%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 2797.9999 (62)
+Clp0032I PrimalInfeasible objective 0 - 22955 iterations time 0.882, Presolve 0.03, Idiot 0.76
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0030I 29 infeas 2298, obj 0 - mu 3.923902e-16, its 105, 22976 interior
+Clp0006I 0  Obj 0 Primal inf 2297.9994 (600)
+Clp0029I End of values pass after 22976 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 2297.9999 (57)
+Clp0032I PrimalInfeasible objective 0 - 22976 iterations time 0.902, Presolve 0.03, Idiot 0.76
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0030I 30 infeas 1798, obj 0 - mu 1.3078365e-16, its 105, 23158 interior
+Clp0006I 0  Obj 0 Primal inf 1797.9994 (600)
+Clp0029I End of values pass after 23158 iterations
+Clp0014I Perturbing problem by 0.001% of 117.98 - largest nonzero change 0.0001318113 ( 0.00062767284%) - largest zero change 1.4993515e-05
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 1797.9999 (57)
+Clp0032I PrimalInfeasible objective 0 - 23159 iterations time 0.852, Presolve 0.03, Idiot 0.71
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0030I 30 infeas 1298, obj 0 - mu 1.3078365e-16, its 105, 23144 interior
+Clp0006I 0  Obj 0 Primal inf 1297.9994 (600)
+Clp0029I End of values pass after 23144 iterations
+Clp0014I Perturbing problem by 0.001% of 117.98 - largest nonzero change 0.0010786797 ( 0.00087697536%) - largest zero change 0
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 1298 (48)
+Clp0032I PrimalInfeasible objective 0 - 23145 iterations time 0.872, Presolve 0.03, Idiot 0.74
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0030I 29 infeas 798, obj 0 - mu 3.923902e-16, its 105, 23220 interior
+Clp0006I 0  Obj 0 Primal inf 797.9994 (600)
+Clp0029I End of values pass after 23220 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 797.99997 (32)
+Clp0032I PrimalInfeasible objective 0 - 23220 iterations time 0.882, Presolve 0.03, Idiot 0.75
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp0030I 29 infeas 298, obj 0 - mu 3.923902e-16, its 105, 23041 interior
+Clp0006I 0  Obj 0 Primal inf 297.9994 (600)
+Clp0029I End of values pass after 23041 iterations
+Clp0001I Primal infeasible - objective value 0
+Coin0505I Presolved problem not optimal, resolve after postsolve
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 297.99998 (20)
+Clp0032I PrimalInfeasible objective 0 - 23041 iterations time 0.902, Presolve 0.03, Idiot 0.77
+Starting solution of the Linear programming relaxation problem using Primal Simplex
+
+Coin0506I Presolve 600 (0) rows, 24864 (-25136) columns and 49728 (-25136) elements
+Clp1000I sum of infeasibilities 1.62856e-10 - average 2.71427e-13, 2982 fixed columns
+Coin0506I Presolve 600 (0) rows, 21882 (-2982) columns and 43764 (-5964) elements
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0006I 0  Obj 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Clp0000I Optimal - objective value 0
+Coin0511I After Postsolve, objective 0, infeasibilities - dual 0 (0), primal 0 (0)
+Clp0032I Optimal objective 0 - 0 iterations time 0.292, Presolve 0.03, Idiot 0.26
+
+Starting MIP optimization
+optimal solution cost 0.0 found
+===================================================================
+solution:
+var(45) : 6.0
+var(531) : 24.0
+var(542) : 15.0
+var(806) : 24.0
+var(1032) : 9.0
+var(1272) : 24.0
+var(1321) : 17.0
+var(1698) : 22.0
+var(1734) : 24.0
+var(2011) : 15.0
+var(2236) : 3.0
+var(2237) : 11.0
+var(2239) : 24.0
+var(2243) : 24.0
+var(2256) : 24.0
+var(2263) : 24.0
+var(2291) : 2.0
+var(2530) : 24.0
+var(2540) : 24.0
+var(2542) : 9.0
+var(2544) : 24.0
+var(2545) : 18.0
+var(2552) : 10.0
+var(2722) : 24.0
+var(2881) : 24.0
+var(3470) : 4.0
+var(3553) : 24.0
+var(3570) : 24.0
+var(3576) : 24.0
+var(3588) : 24.0
+var(3591) : 24.0
+var(3593) : 2.0
+var(4056) : 24.0
+var(4078) : 24.0
+var(4086) : 17.0
+var(4094) : 24.0
+var(4130) : 16.0
+var(4170) : 24.0
+var(4173) : 24.0
+var(4182) : 24.0
+var(4202) : 24.0
+var(4248) : 17.0
+var(4269) : 24.0
+var(4311) : 24.0
+var(4325) : 24.0
+var(4351) : 24.0
+var(4359) : 24.0
+var(4405) : 24.0
+var(4417) : 24.0
+var(4420) : 24.0
+var(4477) : 23.0
+var(4921) : 12.0
+var(5004) : 24.0
+var(5009) : 24.0
+var(5185) : 24.0
+var(5208) : 21.0
+var(5224) : 24.0
+var(5355) : 24.0
+var(5392) : 24.0
+var(5403) : 1.0
+var(5676) : 24.0
+var(5681) : 24.0
+var(5714) : 16.0
+var(6046) : 24.0
+var(6109) : 24.0
+var(6188) : 7.0
+var(6196) : 24.0
+var(6199) : 24.0
+var(6384) : 24.0
+var(6398) : 1.0
+var(6407) : 5.0
+var(6408) : 24.0
+var(6425) : 15.0
+var(6442) : 24.0
+var(6449) : 24.0
+var(6524) : 22.0
+var(6984) : 24.0
+var(7034) : 24.0
+var(7201) : 8.0
+var(7212) : 24.0
+var(7235) : 16.0
+var(7792) : 9.0
+var(7922) : 24.0
+var(8090) : 24.0
+var(8099) : 24.0
+var(8150) : 24.0
+var(8214) : 8.0
+var(8215) : 8.0
+var(8217) : 24.0
+var(8279) : 24.0
+var(8289) : 24.0
+var(8342) : 22.0
+var(8345) : 24.0
+var(8353) : 24.0
+var(8367) : 24.0
+var(8401) : 24.0
+var(8575) : 24.0
+var(8668) : 16.0
+var(8684) : 24.0
+var(8697) : 24.0
+var(8703) : 24.0
+var(8720) : 9.0
+var(8735) : 2.0
+var(8969) : 22.0
+var(9143) : 24.0
+var(9410) : 12.0
+var(9566) : 24.0
+var(9568) : 24.0
+var(9622) : 24.0
+var(9639) : 24.0
+var(9678) : 12.0
+var(9725) : 24.0
+var(9774) : 24.0
+var(9785) : 24.0
+var(9856) : 24.0
+var(10153) : 2.0
+var(10247) : 24.0
+var(10978) : 24.0
+var(11002) : 7.0
+var(11502) : 17.0
+var(11503) : 24.0
+var(11512) : 14.0
+var(11595) : 24.0
+var(11666) : 24.0
+var(11716) : 24.0
+var(12447) : 20.0
+var(12500) : 24.0
+var(12512) : 10.0
+var(12524) : 2.0
+var(12525) : 19.0
+var(12526) : 24.0
+var(12532) : 15.0
+var(12536) : 24.0
+var(12555) : 24.0
+var(12561) : 24.0
+var(12579) : 24.0
+var(12618) : 24.0
+var(12634) : 14.0
+var(12635) : 24.0
+var(12640) : 5.0
+var(12648) : 24.0
+var(12658) : 24.0
+var(12669) : 24.0
+var(12672) : 3.0
+var(12677) : 24.0
+var(12690) : 24.0
+var(12759) : 24.0
+var(12777) : 24.0
+var(12794) : 24.0
+var(12831) : 24.0
+var(12862) : 24.0
+var(13067) : 4.0
+var(13072) : 24.0
+var(13154) : 24.0
+var(13172) : 3.0
+var(13390) : 24.0
+var(13715) : 16.0
+var(14013) : 24.0
+var(14057) : 24.0
+var(14098) : 24.0
+var(14116) : 24.0
+var(14142) : 5.0
+var(14153) : 10.0
+var(14175) : 1.0
+var(14179) : 3.0
+var(14187) : 20.0
+var(14257) : 24.0
+var(14275) : 24.0
+var(14361) : 24.0
+var(14394) : 24.0
+var(14400) : 24.0
+var(14481) : 24.0
+var(14795) : 24.0
+var(14803) : 24.0
+var(14804) : 24.0
+var(14830) : 24.0
+var(14967) : 24.0
+var(14968) : 24.0
+var(14993) : 24.0
+var(14994) : 24.0
+var(14997) : 23.0
+var(15023) : 24.0
+var(15064) : 24.0
+var(15085) : 24.0
+var(15097) : 24.0
+var(15130) : 7.0
+var(15210) : 24.0
+var(15253) : 24.0
+var(15260) : 24.0
+var(15261) : 11.0
+var(15292) : 15.0
+var(15328) : 24.0
+var(15329) : 24.0
+var(15350) : 13.0
+var(15406) : 24.0
+var(15413) : 24.0
+var(15424) : 24.0
+var(15435) : 24.0
+var(15461) : 24.0
+var(15463) : 24.0
+var(15465) : 24.0
+var(15514) : 24.0
+var(15680) : 24.0
+var(15736) : 16.0
+var(15950) : 24.0
+var(16025) : 5.0
+var(16928) : 24.0
+var(16983) : 21.0
+var(17059) : 24.0
+var(17060) : 24.0
+var(17227) : 3.0
+var(17271) : 24.0
+var(17310) : 24.0
+var(17432) : 24.0
+var(17636) : 24.0
+var(17652) : 20.0
+var(17694) : 12.0
+var(17768) : 24.0
+var(17852) : 24.0
+var(17904) : 24.0
+var(18137) : 5.0
+var(18365) : 24.0
+var(18397) : 24.0
+var(18507) : 24.0
+var(18607) : 24.0
+var(18720) : 15.0
+var(18824) : 6.0
+var(19043) : 24.0
+var(19129) : 23.0
+var(19179) : 4.0
+var(19375) : 24.0
+var(19436) : 24.0
+var(19815) : 18.0
+var(20145) : 20.0
+var(20510) : 24.0
+var(20551) : 24.0
+var(20552) : 12.0
+var(20691) : 24.0
+var(20692) : 24.0
+var(20726) : 24.0
+var(20891) : 24.0
+var(21069) : 24.0
+var(21074) : 24.0
+var(21077) : 24.0
+var(21080) : 24.0
+var(21082) : 24.0
+var(21100) : 23.0
+var(21193) : 24.0
+var(21258) : 24.0
+var(21284) : 24.0
+var(21354) : 24.0
+var(21587) : 24.0
+var(21624) : 18.0
+var(21770) : 24.0
+var(21840) : 24.0
+var(21847) : 23.0
+var(22119) : 9.0
+var(22519) : 24.0
+var(22581) : 24.0
+var(22589) : 24.0
+var(22604) : 24.0
+var(22633) : 24.0
+var(22766) : 24.0
+var(22767) : 24.0
+var(22839) : 24.0
+var(22847) : 1.0
+var(22869) : 24.0
+var(22952) : 24.0
+var(22956) : 24.0
+var(23248) : 7.0
+var(23528) : 24.0
+var(23550) : 24.0
+var(23627) : 24.0
+var(23656) : 24.0
+var(23675) : 23.0
+var(23683) : 24.0
+var(23870) : 24.0
+var(23872) : 24.0
+var(23933) : 24.0
+var(23975) : 24.0
+var(23982) : 24.0
+var(24121) : 24.0
+var(24149) : 24.0
+var(24227) : 21.0
+var(24281) : 24.0
+var(24297) : 24.0
+var(24383) : 24.0
+var(24415) : 24.0
+var(24446) : 24.0
+var(24469) : 2.0
+var(24783) : 24.0
+var(24846) : 24.0
+var(24903) : 23.0
+var(24999) : 12.0
+var(25111) : 10.0
+var(25250) : 24.0
+var(25286) : 24.0
+var(25501) : 24.0
+var(25518) : 24.0
+var(25549) : 24.0
+var(25567) : 20.0
+var(25687) : 4.0
+var(25704) : 24.0
+var(25713) : 24.0
+var(25735) : 6.0
+var(25742) : 24.0
+var(25833) : 24.0
+var(25838) : 21.0
+var(25850) : 11.0
+var(25886) : 2.0
+var(25896) : 24.0
+var(25898) : 23.0
+var(25976) : 11.0
+var(25979) : 24.0
+var(26092) : 24.0
+var(26093) : 22.0
+var(26140) : 19.0
+var(26144) : 24.0
+var(26245) : 24.0
+var(26254) : 24.0
+var(26317) : 4.0
+var(26344) : 24.0
+var(26363) : 24.0
+var(26364) : 12.0
+var(26427) : 24.0
+var(26444) : 24.0
+var(26495) : 24.0
+var(26603) : 24.0
+var(26641) : 24.0
+var(26679) : 17.0
+var(26732) : 24.0
+var(26819) : 24.0
+var(26837) : 24.0
+var(26843) : 24.0
+var(26953) : 24.0
+var(26990) : 24.0
+var(27011) : 9.0
+var(27083) : 24.0
+var(27123) : 24.0
+var(27163) : 24.0
+var(27172) : 18.0
+var(27207) : 24.0
+var(27238) : 24.0
+var(27244) : 24.0
+var(27264) : 24.0
+var(27265) : 24.0
+var(27280) : 24.0
+var(27298) : 8.0
+var(27323) : 24.0
+var(27434) : 24.0
+var(27457) : 24.0
+var(27474) : 24.0
+var(27487) : 12.0
+var(27489) : 24.0
+var(27538) : 24.0
+var(27613) : 24.0
+var(27638) : 24.0
+var(27721) : 24.0
+var(27723) : 24.0
+var(27808) : 24.0
+var(27826) : 5.0
+var(27836) : 24.0
+var(27902) : 24.0
+var(27939) : 24.0
+var(27972) : 24.0
+var(28015) : 24.0
+var(28159) : 24.0
+var(28246) : 8.0
+var(28291) : 16.0
+var(28412) : 24.0
+var(28517) : 24.0
+var(28535) : 24.0
+var(28563) : 24.0
+var(28596) : 24.0
+var(28632) : 24.0
+var(28662) : 24.0
+var(28790) : 24.0
+var(28799) : 12.0
+var(28801) : 24.0
+var(28818) : 24.0
+var(28848) : 24.0
+var(28874) : 24.0
+var(28877) : 24.0
+var(28893) : 24.0
+var(28895) : 24.0
+var(28919) : 24.0
+var(28923) : 24.0
+var(28958) : 24.0
+var(28973) : 24.0
+var(29134) : 10.0
+var(29307) : 24.0
+var(29334) : 24.0
+var(29341) : 24.0
+var(29357) : 24.0
+var(29366) : 24.0
+var(29376) : 24.0
+var(29411) : 24.0
+var(29445) : 24.0
+var(29629) : 1.0
+var(29730) : 24.0
+var(29741) : 24.0
+var(29814) : 24.0
+var(29849) : 24.0
+var(30020) : 24.0
+var(30062) : 24.0
+var(30124) : 6.0
+var(30137) : 19.0
+var(30167) : 24.0
+var(30278) : 24.0
+var(30299) : 12.0
+var(30305) : 24.0
+var(30315) : 6.0
+var(30327) : 24.0
+var(30332) : 24.0
+var(30379) : 24.0
+var(30385) : 24.0
+var(30426) : 24.0
+var(30430) : 24.0
+var(30441) : 24.0
+var(30443) : 24.0
+var(30459) : 24.0
+var(30462) : 8.0
+var(30617) : 24.0
+var(30626) : 24.0
+var(30711) : 24.0
+var(30731) : 24.0
+var(30809) : 5.0
+var(30880) : 24.0
+var(30910) : 12.0
+var(31006) : 24.0
+var(31084) : 24.0
+var(31100) : 1.0
+var(31102) : 24.0
+var(31114) : 24.0
+var(31119) : 15.0
+var(31131) : 14.0
+var(31194) : 12.0
+var(31219) : 24.0
+var(31229) : 24.0
+var(31296) : 24.0
+var(31322) : 24.0
+var(31418) : 24.0
+var(31429) : 24.0
+var(31471) : 24.0
+var(31476) : 13.0
+var(31480) : 24.0
+var(31631) : 10.0
+var(32146) : 13.0
+var(32586) : 7.0
+var(32664) : 24.0
+var(32889) : 24.0
+var(33008) : 3.0
+var(33160) : 24.0
+var(33189) : 24.0
+var(33273) : 24.0
+var(33288) : 24.0
+var(33316) : 24.0
+var(33338) : 3.0
+var(33368) : 24.0
+var(33409) : 24.0
+var(33414) : 24.0
+var(33416) : 24.0
+var(33701) : 16.0
+var(34008) : 21.0
+var(34240) : 24.0
+var(34371) : 24.0
+var(34421) : 12.0
+var(34431) : 24.0
+var(34464) : 24.0
+var(34761) : 13.0
+var(34882) : 24.0
+var(34938) : 24.0
+var(34966) : 24.0
+var(34997) : 1.0
+var(34999) : 12.0
+var(35142) : 19.0
+var(35460) : 24.0
+var(35668) : 8.0
+var(35700) : 24.0
+var(35793) : 24.0
+var(35858) : 24.0
+var(36037) : 24.0
+var(36101) : 24.0
+var(36111) : 14.0
+var(36120) : 24.0
+var(36388) : 24.0
+var(36487) : 12.0
+var(36605) : 24.0
+var(36647) : 24.0
+var(36651) : 24.0
+var(36652) : 4.0
+var(36706) : 24.0
+var(36709) : 24.0
+var(37157) : 24.0
+var(37178) : 11.0
+var(37491) : 24.0
+var(37749) : 24.0
+var(37878) : 24.0
+var(37887) : 24.0
+var(37977) : 1.0
+var(38106) : 24.0
+var(38291) : 6.0
+var(38399) : 24.0
+var(38688) : 9.0
+var(38698) : 2.0
+var(39188) : 8.0
+var(39522) : 15.0
+var(39612) : 24.0
+var(39752) : 24.0
+var(39800) : 24.0
+var(39873) : 24.0
+var(40021) : 24.0
+var(40022) : 9.0
+var(40027) : 24.0
+var(40029) : 24.0
+var(40039) : 24.0
+var(40041) : 24.0
+var(40110) : 24.0
+var(40146) : 11.0
+var(40155) : 24.0
+var(40165) : 22.0
+var(40195) : 24.0
+var(40233) : 24.0
+var(40255) : 24.0
+var(40309) : 19.0
+var(40821) : 7.0
+var(40951) : 24.0
+var(41186) : 24.0
+var(41437) : 14.0
+var(41661) : 24.0
+var(41737) : 13.0
+var(41826) : 19.0
+var(41835) : 24.0
+var(41954) : 24.0
+var(42128) : 1.0
+var(42171) : 24.0
+var(42205) : 24.0
+var(42820) : 24.0
+var(42907) : 19.0
+var(43071) : 24.0
+var(43128) : 23.0
+var(43174) : 24.0
+var(43251) : 24.0
+var(43262) : 24.0
+var(43287) : 24.0
+var(43302) : 24.0
+var(43342) : 2.0
+var(43386) : 10.0
+var(43718) : 24.0
+var(43812) : 24.0
+var(43824) : 18.0
+var(43948) : 24.0
+var(43955) : 24.0
+var(44054) : 24.0
+var(44165) : 2.0
+var(44236) : 5.0
+var(44496) : 24.0
+var(44548) : 24.0
+var(44552) : 2.0
+var(44558) : 24.0
+var(44608) : 24.0
+var(44645) : 4.0
+var(44728) : 24.0
+var(44746) : 16.0
+var(44782) : 24.0
+var(44860) : 24.0
+var(44947) : 4.0
+var(45386) : 12.0
+var(45864) : 12.0
+var(46005) : 11.0
+var(46073) : 24.0
+var(46178) : 1.0
+var(46653) : 12.0
+var(47317) : 20.0
+var(47776) : 24.0
+var(47798) : 1.0
+var(48298) : 15.0
+var(48505) : 13.0
+var(48813) : 24.0
+var(49208) : 3.0
+var(49516) : 24.0
+var(49533) : 24.0
+var(49547) : 24.0
+var(49565) : 24.0
+var(49615) : 24.0
+var(49625) : 24.0
+var(49630) : 1.0
+Case #9: 24
+Option for timeMode changed from cpu to elapsed
+maxSavedSolutions was changed from 0 to 10
+Continuous objective value is 0 - 0.23 seconds
+Cgl0004I processed model has 600 rows, 24864 columns (24864 integer (0 of which binary)) and 49728 elements
+Coin3009W Conflict graph built in 0.004 seconds, density: 0.000%
+Cbc0045I No integer variables out of 24864 objects (24864 integer) have costs
+Cbc0045I branch on satisfied N create fake objective Y random cost Y
+Cbc0012I Integer solution of 0 found by DiveCoefficient after 0 iterations and 0 nodes (0.54 seconds)
+Cbc0001I Search completed - best objective 0, took 0 iterations and 0 nodes (0.56 seconds)
+Cbc0035I Maximum depth 0, 0 variables fixed on reduced cost
+Cuts at root node changed objective from 0 to 0
+Probing was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Gomory was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Knapsack was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+Clique was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+OddWheel was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+MixedIntegerRounding2 was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+FlowCover was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+TwoMirCuts was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+ZeroHalf was tried 0 times and created 0 cuts of which 0 were active after adding rounds of cuts (0.000 seconds)
+
+Result - Optimal solution found
+
+Objective value:                0.00000000
+Enumerated nodes:               0
+Total iterations:               0
+Time (CPU seconds):             0.55
+Time (Wallclock seconds):       0.61
+
+Total time (CPU seconds):       0.55   (Wallclock seconds):       0.62
+
