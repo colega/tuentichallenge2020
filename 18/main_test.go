@@ -133,3 +133,13 @@ func TestInput_lolmaoLiteralToLolmaoList(t *testing.T) {
 	})
 
 }
+
+func TestBracketHereWouldBeUnclosed1(t *testing.T) {
+	inp := []byte("[5[b3,]][]")
+	assert.False(t, bracketHereWouldBeUnclosed(inp, 1, 1))
+}
+
+func TestBracketHereWouldBeUnclosed2(t *testing.T) {
+	inp := []byte("[,,,[N,][]")
+	assert.False(t, bracketHereWouldBeUnclosed(inp, 1, 4))
+}
