@@ -14,16 +14,20 @@ import (
 	"time"
 )
 
-var debugEnabled = false
-var verboseEnabled = false
+var debugEnabled, verboseEnabled bool
 
 const IMPOSSIBLE = -1
 const UNKNOWN = -2
 
-var onlyTestCase = flag.Int("only", 0, "Run only one test case. 0 runs all")
-
 func main() {
+	var onlyTestCase int
+	flag.IntVar(&onlyTestCase, "only", 0, "Run only one test case. 0 runs all")
+	flag.BoolVar(&verboseEnabled, "verbose", false, "Verbose logging")
+	flag.BoolVar(&verboseEnabled, "debug", false, "Debug logging")
 	flag.Parse()
+	if verboseEnabled {
+		debugEnabled = true
+	}
 
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
@@ -38,7 +42,7 @@ func main() {
 			inp = append(inp, &inputLine{s: scanner.Text()})
 		}
 
-		if *onlyTestCase > 0 && testCase != *onlyTestCase {
+		if onlyTestCase > 0 && testCase != onlyTestCase {
 			continue
 		}
 
@@ -234,8 +238,9 @@ func makeValidLolmaoList(in []byte) int {
 	}
 	// clean cache
 	cache = map[cacheKey]int{}
+	best = math.MaxInt32
 	alreadyChanged := make([]bool, len(in))
-	return makeValidLolmaoListRecursive(in, alreadyChanged, math.MaxInt32, open, c, 0)
+	return makeValidLolmaoListRecursive(in, alreadyChanged, open, c, 0)
 }
 
 type cacheKey struct {
@@ -244,8 +249,9 @@ type cacheKey struct {
 }
 
 var cache = map[cacheKey]int{}
+var best = math.MaxInt32
 
-func makeValidLolmaoListReplacing(in []byte, alreadyChanged []bool, maxChanges, open, c, i0 int, newChar byte, comment string) (result int) {
+func makeValidLolmaoListReplacing(in []byte, alreadyChanged []bool, open, c, i0 int, newChar byte, comment string) (result int) {
 	in = copyBytes(in)
 	alreadyChanged = copyBools(alreadyChanged)
 
@@ -261,9 +267,9 @@ func makeValidLolmaoListReplacing(in []byte, alreadyChanged []bool, maxChanges, 
 		c++
 	}
 	p(in, i0, c, open, comment)
-	if c >= maxChanges {
+	if c >= best {
 		verbose("Cutting branch ")
-		return c
+		return best
 	}
 	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1), isValidESC(bytesToInput(in))}
 	if cached, ok := cache[ckey]; ok {
@@ -279,8 +285,11 @@ func makeValidLolmaoListReplacing(in []byte, alreadyChanged []bool, maxChanges, 
 			}
 		}
 		cache[ckey] = result
+		if result < best {
+			best = result
+		}
 	}()
-	return makeValidLolmaoListRecursive(in, alreadyChanged, maxChanges, open, c, i0)
+	return makeValidLolmaoListRecursive(in, alreadyChanged, open, c, i0)
 }
 
 func hasChanged(alreadyChanged []bool, i int) bool {
@@ -290,14 +299,13 @@ func hasChanged(alreadyChanged []bool, i int) bool {
 	}
 	return false
 }
-
-func makeValidLolmaoListKeeping(in []byte, alreadyChanged []bool, maxChanges, open, c, i0 int) (result int) {
+func makeValidLolmaoListKeeping(in []byte, alreadyChanged []bool, open, c, i0 int) (result int) {
 	if in[i0] == ']' {
 		open--
 	} else if in[i0] == '[' {
 		open++
 	}
-	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1), isValidESC(bytesToInput(in))}
+	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1), isValidESCBytes(in)}
 	if cached, ok := cache[ckey]; ok {
 		if verboseEnabled {
 			p(in, i0, c, open, fmt.Sprintf("keeping returning cached %d for : %+v", cached, ckey))
@@ -312,29 +320,32 @@ func makeValidLolmaoListKeeping(in []byte, alreadyChanged []bool, maxChanges, op
 			}
 		}
 		cache[ckey] = result
+		if result < best {
+			best = result
+		}
 	}()
-	return makeValidLolmaoListRecursive(copyBytes(in), copyBools(alreadyChanged), maxChanges, open, c, i0)
+	return makeValidLolmaoListRecursive(copyBytes(in), copyBools(alreadyChanged), open, c, i0)
 }
 
-func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, open, c, i0 int) int {
+func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, open, c, i0 int) int {
 	last := len(in) - 1
 	i := i0 + 1
 	if i < len(in)-1 {
 		p(in, i, c, open, "deciding")
 
-		score := maxChanges
+		score := best
 		if canKeep(in, i, open) {
 			// the cheapest always goes first, if it's feasible to not to change, it's great
-			score = min(score, min(score, makeValidLolmaoListKeeping(in, alreadyChanged, maxChanges, open, c, i)))
+			score = makeValidLolmaoListKeeping(in, alreadyChanged, open, c, i)
 		}
 		if in[i] != ',' {
-			score = min(score, makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, ',', "changing to a comma"))
+			score = makeValidLolmaoListReplacing(in, alreadyChanged, open, c, i, ',', "changing to a comma")
 		}
 		if in[i] != '[' && canStartElement(in, i) {
-			score = min(score, makeValidLolmaoListReplacing(in, alreadyChanged, score, open, c, i, '[', "opening bracket"))
+			score = makeValidLolmaoListReplacing(in, alreadyChanged, open, c, i, '[', "opening bracket")
 		}
 		if in[i] != ']' && open > 1 {
-			score = min(score, makeValidLolmaoListReplacing(in, alreadyChanged, score, open, c, i, ']', "closing bracket"))
+			score = makeValidLolmaoListReplacing(in, alreadyChanged, open, c, i, ']', "closing bracket")
 		}
 		return score
 	}
@@ -352,7 +363,7 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 					closable -= 2
 					if hasChanged(alreadyChanged, i) {
 						c++
-						if c >= maxChanges {
+						if c >= best {
 							verbose("Cutting branch ")
 							return c
 						}
@@ -375,7 +386,7 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 			}
 			if hasChanged(alreadyChanged, i) {
 				c++
-				if c >= maxChanges {
+				if c >= best {
 					verbose("Cutting branch ")
 					return c
 				}
@@ -403,7 +414,7 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 	if !isValidESC(inp) {
 		fixChanges := makeValidESC(inp, c)
 		if fixChanges == IMPOSSIBLE {
-			return maxChanges
+			return math.MaxInt32
 		}
 		return fixChanges
 	}
@@ -429,6 +440,22 @@ func copyBools(in []bool) []bool {
 	out := make([]bool, len(in))
 	copy(out, in)
 	return out
+}
+
+func isValidESCBytes(in []byte) bool {
+	hasComma := false
+	for _, n := range in {
+		if n == ',' {
+			hasComma = true
+		}
+		if n == '\n' {
+			if !hasComma {
+				return false
+			}
+			hasComma = false
+		}
+	}
+	return hasComma
 }
 
 func canKeep(in []byte, i, open int) bool {
