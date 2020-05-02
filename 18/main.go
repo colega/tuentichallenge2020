@@ -20,8 +20,10 @@ const IMPOSSIBLE = -1
 const UNKNOWN = -2
 
 func main() {
-	var onlyTestCase int
+	var onlyTestCase, fromTestCase, toTestCase int
 	flag.IntVar(&onlyTestCase, "only", 0, "Run only one test case. 0 runs all")
+	flag.IntVar(&fromTestCase, "from", 0, "Run only test cases >= this one")
+	flag.IntVar(&toTestCase, "to", 0, "Run only test cases < this one")
 	flag.BoolVar(&verboseEnabled, "verbose", false, "Verbose logging")
 	flag.BoolVar(&verboseEnabled, "debug", false, "Debug logging")
 	flag.Parse()
@@ -43,6 +45,12 @@ func main() {
 		}
 
 		if onlyTestCase > 0 && testCase != onlyTestCase {
+			continue
+		}
+		if fromTestCase > 0 && testCase < fromTestCase {
+			continue
+		}
+		if toTestCase > 0 && testCase >= toTestCase {
 			continue
 		}
 
@@ -236,6 +244,7 @@ func makeValidLolmaoList(in []byte) int {
 		c++
 		p(in, last, c, open, "adding a closing bracket")
 	}
+
 	// clean cache
 	cache = map[cacheKey]int{}
 	best = math.MaxInt32
