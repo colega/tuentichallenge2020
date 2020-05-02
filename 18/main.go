@@ -14,8 +14,8 @@ import (
 	"time"
 )
 
-var debugEnabled = true
-var verboseEnabled = true
+var debugEnabled = false
+var verboseEnabled = false
 
 const IMPOSSIBLE = -1
 const UNKNOWN = -2
@@ -239,8 +239,8 @@ func makeValidLolmaoList(in []byte) int {
 }
 
 type cacheKey struct {
-	i0, open, changes          int
-	canStartHere, canStartNext bool
+	i0, open, changes                      int
+	canStartHere, canStartNext, isValidESC bool
 }
 
 var cache = map[cacheKey]int{}
@@ -265,10 +265,11 @@ func makeValidLolmaoListReplacing(in []byte, alreadyChanged []bool, maxChanges, 
 		verbose("Cutting branch ")
 		return c
 	}
-	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1)}
+	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1), isValidESC(bytesToInput(in))}
 	if cached, ok := cache[ckey]; ok {
-		verbose("Returning value for %+v: %d", ckey, cached)
-		//[e,[[[[]]]],b]
+		if verboseEnabled {
+			p(in, i0, c, open, fmt.Sprintf("%s returning cached %d for : %+v", comment, cached, ckey))
+		}
 		return cached
 	}
 	defer func() {
@@ -296,11 +297,14 @@ func makeValidLolmaoListKeeping(in []byte, alreadyChanged []bool, maxChanges, op
 	} else if in[i0] == '[' {
 		open++
 	}
-	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1)}
+	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1), isValidESC(bytesToInput(in))}
 	if cached, ok := cache[ckey]; ok {
-		verbose("Returning value for %+v: %d", ckey, cached)
+		if verboseEnabled {
+			p(in, i0, c, open, fmt.Sprintf("keeping returning cached %d for : %+v", cached, ckey))
+		}
 		return cached
 	}
+	p(in, i0, c, open, "keeping")
 	defer func() {
 		if verboseEnabled {
 			if _, ok := cache[ckey]; !ok {
@@ -314,84 +318,31 @@ func makeValidLolmaoListKeeping(in []byte, alreadyChanged []bool, maxChanges, op
 
 func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, open, c, i0 int) int {
 	last := len(in) - 1
+	i := i0 + 1
+	if i < len(in)-1 {
+		p(in, i, c, open, "deciding")
 
-	p(in, i0, c, open, "branching")
-	for i := i0 + 1; i < len(in)-1; i++ {
-		p(in, i, c, open, "loop")
-		if in[i] == ',' {
-			if canStartElement(in, i) && bracketHereWouldHaveAClosingMatch(in, open, i) {
-				withBracket := makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, '[', "opening bracket would be closed, so we have to change less stuff later")
-				withoutBracket := makeValidLolmaoListKeeping(in, alreadyChanged, withBracket, open, c, i)
-				return min(withBracket, withoutBracket)
-			}
-		} else if literal(in[i]) {
-			if canStartElement(in, i) && bracketHereWouldHaveAClosingMatch(in, open, i) {
-				withBracket := makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, '[', "opening bracket would be closed, so we have to change less stuff later (literal)")
-				withoutBracket := makeValidLolmaoListKeeping(in, alreadyChanged, withBracket, open, c, i)
-				return min(withBracket, withoutBracket)
-			} else if in[i-1] != ',' && in[i-1] != '[' {
-				keepingLiteralIfPossible := maxChanges
-				if literal(in[i-1]) {
-					keepingLiteralIfPossible = makeValidLolmaoListKeeping(in, alreadyChanged, maxChanges, open, c, i)
-				}
-				if open > 1 && !closingHereWouldRequireChangingNext(in, i) {
-					closingIt := makeValidLolmaoListReplacing(in, alreadyChanged, keepingLiteralIfPossible, open, c, i, ']', "we have enough open lets close now we can")
-					replacingByAComma := makeValidLolmaoListReplacing(in, alreadyChanged, closingIt, open, c, i, ',', "closing here would require changing next literal, so lets avoid changing it")
-					return min(closingIt, replacingByAComma, keepingLiteralIfPossible)
-				} else {
-					replacingByAComma := makeValidLolmaoListReplacing(in, alreadyChanged, keepingLiteralIfPossible, open, c, i, ',', "can't have an opening here and closing would require changing next or we don't have enough open")
-					return min(keepingLiteralIfPossible, replacingByAComma)
-				}
-			} else if canStartElement(in, i) {
-				// like first case but again
-				withBracket := makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, '[', "opening bracket would be closed, so we have to change less stuff later (literal)")
-				withoutBracket := makeValidLolmaoListKeeping(in, alreadyChanged, withBracket, open, c, i)
-				return min(withBracket, withoutBracket)
-			} else {
-				for literal(in[i+1]) {
-					i++
-				}
-			}
-		} else if in[i] == '[' {
-			if canStartElement(in, i) {
-				// we can leave this opening
-				open++
-			} else {
-				if open > 1 && !closingHereWouldRequireChangingNext(in, i) {
-					closingIt := makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, ']', "we have enough open lets close now we can")
-					replacingByAComma := makeValidLolmaoListReplacing(in, alreadyChanged, closingIt, open, c, i, ',', "closing here would require changing next literal, so lets avoid changing it")
-					return min(closingIt, replacingByAComma)
-				} else {
-					return makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, ',', "can't have an opening here and closing would require changing next or we don't have enough open")
-				}
-			}
-		} else if in[i] == ']' {
-			if open > 1 {
-				if closingHereWouldRequireChangingNext(in, i) {
-					replacingByAComma := makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, ',', "closing here would require changing next literal, so lets avoid changing it")
-					keepingClosingBracket := makeValidLolmaoListKeeping(in, alreadyChanged, replacingByAComma, open, c, i)
-					return min(replacingByAComma, keepingClosingBracket)
-				} else {
-					open--
-				}
-				// just close igt
-			} else {
-				// we have to change it, maybe to something useful?
-				if bracketHereWouldHaveAClosingMatch(in, open, i) && canStartElement(in, i) {
-					return makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, '[', "opening bracket would be closed, not sure if its a good idea")
-				} else {
-					return makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, ',', "a default comma is okay here")
-				}
-			}
-		} else {
-			panic(fmt.Errorf("unexpected char %c", in[i]))
+		score := maxChanges
+		if canKeep(in, i, open) {
+			// the cheapest always goes first, if it's feasible to not to change, it's great
+			score = min(score, min(score, makeValidLolmaoListKeeping(in, alreadyChanged, maxChanges, open, c, i)))
 		}
+		if in[i] != ',' {
+			score = min(score, makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, ',', "changing to a comma"))
+		}
+		if in[i] != '[' && canStartElement(in, i) {
+			score = min(score, makeValidLolmaoListReplacing(in, alreadyChanged, score, open, c, i, '[', "opening bracket"))
+		}
+		if in[i] != ']' && open > 1 {
+			score = min(score, makeValidLolmaoListReplacing(in, alreadyChanged, score, open, c, i, ']', "closing bracket"))
+		}
+		return score
 	}
 
-	p(in, last, c, open, "loop done")
+	p(in, last, c, open, "we're at the end")
 
 	// try to change opens followed by a comma, those are double points!
-	i := last - 1
+	i = last - 1
 	closable := open
 	for open > 2 && closable > 2 && i > 0 {
 		if in[i] != ']' {
@@ -441,7 +392,9 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 		i--
 	}
 
-	if c == 15 {
+	p(in, i, c, open, "opens matched")
+
+	if c == 4 {
 		debug("THE SOLUTION (pending fix) ================================================================")
 		p(in, 0, c, open, "this is the solution")
 	}
@@ -478,120 +431,21 @@ func copyBools(in []bool) []bool {
 	return out
 }
 
-func placeForACheaperClosingBracket(in []byte, i int) (int, bool) {
-	i++
-	tmp := i
-	// first try to find one where we can also remove an opening bracket
-	for ; i < len(in)-1; i++ {
-		if in[i] == '[' && (in[i+1] == ',' || in[i+1] == ']') {
-			return i, true
-		}
-	}
-
-	i = tmp
-	// no luck, then anything is okay
-	for ; i < len(in)-1; i++ {
-		if in[i+1] == ',' || in[i+1] == ']' {
-			return i, true
-		}
-	}
-	return 0, false
-}
-
-func placeForACheaperOpeningBracketToReplaceByComma(in []byte, open, i int) (int, bool) {
-	i++
-	open++
-	for ; i < len(in)-1; i++ {
-		if in[i] == '[' {
-			if (in[i-1] == ',' || in[i-1] == '[') && open > 2 {
-				return i, true
-			}
-			open++
-		} else if in[i] == ']' {
-			open--
-			if open == 1 {
-				// next opening brackets dont affect this one
-				return 0, false
-			}
-		}
-	}
-	return 0, false
-}
-
-func closingHereWouldRequireChangingNext(in []byte, i int) bool {
-	return in[i+1] != ',' && in[i+1] != ']'
-}
-func canStartElement(in []byte, i int) bool {
-	return in[i-1] == '[' || in[i-1] == ','
-}
-
-func bracketHereWouldHaveAClosingMatch(in []byte, open, i int) bool {
-	return !bracketHereWouldBeUnclosed(in, open, i)
-}
-
-// would it be unclosed checks whether the bracket would be unclosed if we place one here
-func bracketHereWouldBeUnclosed(in []byte, open, i int) bool {
-	open++
-	i++
-	for ; i < len(in)-1; i++ {
-		if in[i] == '[' {
-			open++
-		} else if in[i] == ']' /*&& (in[i+1] == ',' || in[i+1] == ']')*/ {
-			open--
-		}
-		if open == 1 {
-			// this is not the last closing brackets and we went to zero
-			// so so it's definitely not unclosed
-			return false
-		}
-	}
-	return open > 1
-}
-
-func bracketHereWouldBeUnclosedWithOneExtra(in []byte, open, i int) bool {
-	open++
-	i++
-	for ; i < len(in)-1; i++ {
-		if in[i] == '[' {
-			open++
-		} else if in[i] == ']' && (in[i+1] == ',' || in[i+1] == ']') /* checking if it will stay there */ {
-			open--
-			if open == 1 {
-				// this is not the last closing brackets and we went to zero
-				// so so it's definitely not unclosed
-				return false
-			}
-		}
-	}
-	return open > 2
-}
-
-func excessOpen(in []byte, open, i int) bool {
-	for ; i < len(in)-1; i++ {
-		if in[i] == '[' {
-			open++
-		} else if in[i] == ']' {
-			open--
-			if open == 0 {
-				// this is not the last closing brackets and we went to zero, not good
-				return false
-			}
-		}
-	}
-	if i == len(in) {
+func canKeep(in []byte, i, open int) bool {
+	if literal(in[i]) {
+		return canStartElement(in, i) || literal(in[i-1])
+	} else if in[i] == '[' {
+		return canStartElement(in, i)
+	} else if in[i] == ']' {
+		return open > 1
+	} else if in[i] == ',' {
 		return true
 	}
-	return false
+	panic("what else?")
 }
 
-func count(in []byte, c byte) int {
-	count := 0
-	for _, b := range in {
-		if c == b {
-			count++
-		}
-	}
-	return count
+func canStartElement(in []byte, i int) bool {
+	return in[i-1] == '[' || in[i-1] == ','
 }
 
 func literal(c byte) bool {
