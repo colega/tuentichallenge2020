@@ -15,7 +15,7 @@ import (
 )
 
 var debugEnabled = true
-var verboseEnabled = false
+var verboseEnabled = true
 
 const IMPOSSIBLE = -1
 const UNKNOWN = -2
@@ -24,8 +24,6 @@ var onlyTestCase = flag.Int("only", 0, "Run only one test case. 0 runs all")
 
 func main() {
 	flag.Parse()
-
-	//http.ListenAndServe(":8080", pprof.)
 
 	scanner := bufio.NewScanner(os.Stdin)
 	scanner.Scan()
@@ -234,11 +232,20 @@ func makeValidLolmaoList(in []byte) int {
 		c++
 		p(in, last, c, open, "adding a closing bracket")
 	}
+	// clean cache
+	cache = map[cacheKey]int{}
 	alreadyChanged := make([]bool, len(in))
 	return makeValidLolmaoListRecursive(in, alreadyChanged, math.MaxInt32, open, c, 0)
 }
 
-func makeValidLolmaoListReplacing(in []byte, alreadyChanged []bool, maxChanges, open, c, i0 int, newChar byte, comment string) int {
+type cacheKey struct {
+	i0, open, changes          int
+	canStartHere, canStartNext bool
+}
+
+var cache = map[cacheKey]int{}
+
+func makeValidLolmaoListReplacing(in []byte, alreadyChanged []bool, maxChanges, open, c, i0 int, newChar byte, comment string) (result int) {
 	in = copyBytes(in)
 	alreadyChanged = copyBools(alreadyChanged)
 
@@ -258,6 +265,20 @@ func makeValidLolmaoListReplacing(in []byte, alreadyChanged []bool, maxChanges, 
 		verbose("Cutting branch ")
 		return c
 	}
+	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1)}
+	if cached, ok := cache[ckey]; ok {
+		verbose("Returning value for %+v: %d", ckey, cached)
+		//[e,[[[[]]]],b]
+		return cached
+	}
+	defer func() {
+		if verboseEnabled {
+			if _, ok := cache[ckey]; !ok {
+				verbose("Caching state %+v as %d", ckey, result)
+			}
+		}
+		cache[ckey] = result
+	}()
 	return makeValidLolmaoListRecursive(in, alreadyChanged, maxChanges, open, c, i0)
 }
 
@@ -269,12 +290,25 @@ func hasChanged(alreadyChanged []bool, i int) bool {
 	return false
 }
 
-func makeValidLolmaoListKeeping(in []byte, alreadyChanged []bool, maxChanges, open, c, i0 int) int {
+func makeValidLolmaoListKeeping(in []byte, alreadyChanged []bool, maxChanges, open, c, i0 int) (result int) {
 	if in[i0] == ']' {
 		open--
 	} else if in[i0] == '[' {
 		open++
 	}
+	ckey := cacheKey{i0, open, c, canStartElement(in, i0), canStartElement(in, i0+1)}
+	if cached, ok := cache[ckey]; ok {
+		verbose("Returning value for %+v: %d", ckey, cached)
+		return cached
+	}
+	defer func() {
+		if verboseEnabled {
+			if _, ok := cache[ckey]; !ok {
+				verbose("Caching state %+v as %d", ckey, result)
+			}
+		}
+		cache[ckey] = result
+	}()
 	return makeValidLolmaoListRecursive(copyBytes(in), copyBools(alreadyChanged), maxChanges, open, c, i0)
 }
 
@@ -285,13 +319,13 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 	for i := i0 + 1; i < len(in)-1; i++ {
 		p(in, i, c, open, "loop")
 		if in[i] == ',' {
-			if canPutABracketHere(in, i) && bracketHereWouldHaveAClosingMatch(in, open, i) {
+			if canStartElement(in, i) && bracketHereWouldHaveAClosingMatch(in, open, i) {
 				withBracket := makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, '[', "opening bracket would be closed, so we have to change less stuff later")
 				withoutBracket := makeValidLolmaoListKeeping(in, alreadyChanged, withBracket, open, c, i)
 				return min(withBracket, withoutBracket)
 			}
 		} else if literal(in[i]) {
-			if canPutABracketHere(in, i) && bracketHereWouldHaveAClosingMatch(in, open, i) {
+			if canStartElement(in, i) && bracketHereWouldHaveAClosingMatch(in, open, i) {
 				withBracket := makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, '[', "opening bracket would be closed, so we have to change less stuff later (literal)")
 				withoutBracket := makeValidLolmaoListKeeping(in, alreadyChanged, withBracket, open, c, i)
 				return min(withBracket, withoutBracket)
@@ -308,7 +342,7 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 					replacingByAComma := makeValidLolmaoListReplacing(in, alreadyChanged, keepingLiteralIfPossible, open, c, i, ',', "can't have an opening here and closing would require changing next or we don't have enough open")
 					return min(keepingLiteralIfPossible, replacingByAComma)
 				}
-			} else if canPutABracketHere(in, i) {
+			} else if canStartElement(in, i) {
 				// like first case but again
 				withBracket := makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, '[', "opening bracket would be closed, so we have to change less stuff later (literal)")
 				withoutBracket := makeValidLolmaoListKeeping(in, alreadyChanged, withBracket, open, c, i)
@@ -319,7 +353,7 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 				}
 			}
 		} else if in[i] == '[' {
-			if canPutABracketHere(in, i) {
+			if canStartElement(in, i) {
 				// we can leave this opening
 				open++
 			} else {
@@ -343,7 +377,7 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 				// just close igt
 			} else {
 				// we have to change it, maybe to something useful?
-				if bracketHereWouldHaveAClosingMatch(in, open, i) && canPutABracketHere(in, i) {
+				if bracketHereWouldHaveAClosingMatch(in, open, i) && canStartElement(in, i) {
 					return makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, '[', "opening bracket would be closed, not sure if its a good idea")
 				} else {
 					return makeValidLolmaoListReplacing(in, alreadyChanged, maxChanges, open, c, i, ',', "a default comma is okay here")
@@ -407,6 +441,11 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 		i--
 	}
 
+	if c == 15 {
+		debug("THE SOLUTION (pending fix) ================================================================")
+		p(in, 0, c, open, "this is the solution")
+	}
+
 	inp := bytesToInput(in)
 	if !isValidESC(inp) {
 		fixChanges := makeValidESC(inp, c)
@@ -415,6 +454,7 @@ func makeValidLolmaoListRecursive(in []byte, alreadyChanged []bool, maxChanges, 
 		}
 		return fixChanges
 	}
+
 	return c
 }
 
@@ -481,7 +521,7 @@ func placeForACheaperOpeningBracketToReplaceByComma(in []byte, open, i int) (int
 func closingHereWouldRequireChangingNext(in []byte, i int) bool {
 	return in[i+1] != ',' && in[i+1] != ']'
 }
-func canPutABracketHere(in []byte, i int) bool {
+func canStartElement(in []byte, i int) bool {
 	return in[i-1] == '[' || in[i-1] == ','
 }
 
